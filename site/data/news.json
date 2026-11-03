@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-03T13:40:00Z",
+  "note": "首次预置：2026-11-02至03公开中文报道，仅作网页上线前的新闻示例；正式发布后自动更新。",
+  "articles": [
+    {
+      "id": "seed-1", "title": "合勤控：越南生产基地今年试产，2027年预计放量",
+      "summary": "台湾网通厂商合勤控在11月3日法说会上表示，越南生产基地已于2026年试产，并计划在2027年扩大产出；公司也关注南亚与东南亚市场拓展。",
+      "source": "中央社", "url": "https://www.cna.com.tw/news/afe/202611030223.aspx", "published_at": "2026-11-03T08:31:00Z", "category": "产能布局", "origin": "公开报道预置", "language": "中文"
+    },
+    {
+      "id": "seed-2", "title": "环球晶：美国12英寸SOI需求超预期，评估进一步扩产",
+      "summary": "环球晶于11月3日法说会上披露，美国12英寸SOI晶圆需求超出原先预期，正评估是否扩大产能。此事涉及半导体材料的区域产能配置。",
+      "source": "优分析／钜亨网", "url": "https://uanalyze.com.tw/articles/5510658292", "published_at": "2026-11-03T09:06:00Z", "category": "科技原料", "origin": "公开报道预置", "language": "中文"
+    },
+    {
+      "id": "seed-3", "title": "花旗预计台日韩企业赴美投资持续增长，供应链重组带动跨境资金需求",
+      "summary": "花旗国际业务主管表示，台湾、日本、韩国企业赴美投资可能继续增长；制造业投资将依次经历购地、建厂和运营等阶段。",
+      "source": "优分析", "url": "https://uanalyze.com.tw/articles/7784258243", "published_at": "2026-11-03T05:36:00Z", "category": "产能布局", "origin": "公开报道预置", "language": "中文"
+    },
+    {
+      "id": "seed-4", "title": "台湾立法机构讨论修订贸易法，拟强化高阶芯片出口管制",
+      "summary": "11月2日举行的公听会讨论对战略性高科技货品加强出口管制的修法方案，关注高阶芯片等产品的转运与出口合规。",
+      "source": "公视新闻网", "url": "https://news.pts.org.tw/article/833939", "published_at": "2026-11-02T11:27:00Z", "category": "贸易政策", "origin": "公开报道预置", "language": "中文"
+    },
+    {
+      "id": "seed-5", "title": "越南2026年前十个月进出口贸易总额首次突破1万亿美元",
+      "summary": "越南工贸部门估计，2026年前十个月贸易总额约1.01万亿美元，出口约4990亿美元；反映其在国际贸易与制造网络中的地位变化。",
+      "source": "中央社", "url": "https://www.cna.com.tw/news/afe/202611033002.aspx", "published_at": "2026-11-03T08:09:00Z", "category": "贸易政策", "origin": "公开报道预置", "language": "中文"
+    },
+    {
+      "id": "seed-6", "title": "从贸易航线到生产线：中阿经贸合作关注工业园区和项目采购落地",
+      "summary": "报道关注阿曼工业园区、能源项目以及中国制造商参与国际采购和建设的机会，指出项目融资、技术标准和本地化要求将影响合作能否落地。",
+      "source": "21世纪经济报道", "url": "https://www.21jingji.com/article/20261103/herald/5306c9c5224a6355a28b5b66134e1596.html", "published_at": "2026-11-03T04:00:00Z", "date_precision": "day", "category": "产能布局", "origin": "公开报道预置", "language": "中文"
+    },
+    {
+      "id": "seed-7", "title": "辽宁研究内河航道与港口布局，尝试补齐东北水运网络短板",
+      "summary": "辽宁省就内河航道与港口布局规划召开专家咨询会，推动完善区域水运交通网络。该进展主要涉及国内物流基础设施。",
+      "source": "每日经济新闻", "url": "https://www.nbd.com.cn/articles/2026-11-02/4634983.html", "published_at": "2026-11-02T13:54:00Z", "category": "物流风险", "origin": "公开报道预置", "language": "中文"
+    }
+  ]
+}

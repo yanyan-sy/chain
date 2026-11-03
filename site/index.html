@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+  <meta name="theme-color" content="#0c182b"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <meta name="apple-mobile-web-app-title" content="链闻"/>
+  <meta name="description" content="中文全球供应链新闻：全球产能布局、贸易关税、物流航运、半导体与关键原材料动态。"/>
+  <link rel="manifest" href="./manifest.webmanifest"/>
+  <link rel="icon" type="image/svg+xml" href="./icons/icon.svg"/>
+  <link rel="apple-touch-icon" href="./icons/icon-apple.png"/>
+  <link rel="stylesheet" href="./styles.css"/>
+  <title>链闻｜全球供应链中文快讯</title>
+</head>
+<body>
+  <div class="app-frame">
+    <header class="topbar">
+      <div class="brand" aria-label="链闻 全球供应链中文快讯">
+        <div class="brand-mark"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M6 12 16 6l10 6v9l-10 6-10-6zM6 12l10 6 10-6M16 18v9"/><circle cx="6" cy="12" r="2.3"/><circle cx="26" cy="12" r="2.3"/><circle cx="16" cy="27" r="2.3"/></svg></div>
+        <div><div class="brand-title">链闻 <span>CHAIN BRIEF</span></div><div class="brand-sub">全球供应链 · 中文资讯</div></div>
+      </div>
+      <button id="btn-theme" class="icon-btn" aria-label="切换深浅色" title="切换深浅色"><svg class="icon"><use href="#i-sun"/></svg></button>
+    </header>
+
+    <section class="hero" aria-label="今日供应链简报">
+      <div class="hero-grid" aria-hidden="true"></div>
+      <div class="hero-top"><span class="eyebrow"><span class="pulse"></span> DAILY INTELLIGENCE</span><span id="hero-date" class="hero-date"></span></div>
+      <h1>读懂全球供应链，<br/><em>从今天的变化开始。</em></h1>
+      <p>聚焦真实企业的产能调整、贸易政策、航运物流与关键产业动态。</p>
+      <div class="hero-stats"><span><strong id="stat-total">—</strong><small>篇中文报道</small></span><span><strong id="stat-sources">—</strong><small>个新闻来源</small></span><span><strong id="stat-new">—</strong><small>近24小时</small></span></div>
+    </section>
+
+    <div id="data-banner" class="data-banner" role="status"><span class="status-dot"></span><span id="data-message">正在载入新闻数据…</span><button id="btn-update" aria-label="重新载入数据">↻</button></div>
+
+    <main id="main-content">
+      <section id="feed-view" aria-label="新闻列表">
+        <div class="section-heading"><div><span class="section-overline">LATEST STORIES</span><h2>最新关注</h2></div><span class="section-right" id="feed-count">—</span></div>
+        <div class="search-box"><svg class="icon"><use href="#i-search"/></svg><input id="search-input" type="search" placeholder="搜索企业、国家、关税、建厂…" autocomplete="off" aria-label="搜索新闻"/><button class="clear-search" id="clear-search" aria-label="清空搜索" hidden>×</button></div>
+        <div class="segment" role="group" aria-label="新闻时间范围"><button class="seg active" data-days="7">近7天</button><button class="seg" data-days="3">近72小时</button><button class="seg" data-days="1">近24小时</button></div>
+        <div id="filters" class="filter-scroll" aria-label="选择新闻分类"></div>
+        <div id="article-list" class="article-list" aria-live="polite"></div>
+      </section>
+      <section id="about-view" hidden><div class="section-heading"><div><span class="section-overline">ABOUT THIS PROJECT</span><h2>关于链闻</h2></div></div><div class="about-card"><h3>中文全球供应链观察</h3><p>网页以公开 RSS 作为新闻索引，自动汇集中文报道。内容不是人工逐条审稿，也不保证覆盖所有重要事件。</p><p>点击任意标题可跳转新闻发布网站阅读；不复制受版权保护的全文。搜索和收藏保存在当前设备上。</p><p><strong>数据获取：</strong>Google 新闻与 Bing 新闻 RSS 等公开订阅接口；任何一个来源可能临时不可用。新闻由部署在 GitHub Actions 上的程序采集，再发布为静态网页。</p><p><strong>更新时间：</strong><span id="about-updated">—</span></p><p><strong>检查结果：</strong><span id="about-status">—</span></p><details class="log"><summary>查看新闻获取诊断</summary><pre id="diagnostics">暂无诊断</pre></details><a href="https://news.google.com/search?q=%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E9%93%BE&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans" target="_blank" rel="noopener noreferrer" class="outlink">直接打开 Google 新闻搜索 ↗</a></div><div class="about-card"><h3>添加到手机主屏幕</h3><p>在 Safari（iPhone）点「分享」→「添加到主屏幕」；在 Chrome（Android）点浏览器菜单→「添加到主屏幕」或「安装应用」。需要先通过 HTTPS 网站地址打开本网页。</p></div></section>
+    </main>
+    <nav class="bottom-nav" aria-label="底部导航"><button class="nav-item active" data-page="feed"><svg class="icon"><use href="#i-news"/></svg><span>最新</span></button><button class="nav-item" data-page="saved"><svg class="icon"><use href="#i-bookmark"/></svg><span>收藏</span></button><button class="nav-item" data-page="about"><svg class="icon"><use href="#i-info"/></svg><span>关于</span></button></nav>
+  </div>
+  <svg style="position:absolute;width:0;height:0;overflow:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></symbol>
+    <symbol id="i-news" viewBox="0 0 24 24"><path d="M5 4h14v15a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"/><path d="M7 8h8M7 12h9M7 16h6"/></symbol>
+    <symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4-6 4z"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7h.01"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M2 12h2m16 0h2M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M13 5h6v6M19 5l-9 9"/><path d="M19 14v4a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h4"/></symbol>
+  </svg>
+  <script src="./seed-data.js"></script>
+  <script src="./app.js" defer></script>
+</body>
+</html>

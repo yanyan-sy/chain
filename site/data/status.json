@@ -1,0 +1,9 @@
+{
+  "checked_at": null,
+  "success_sources": 0,
+  "total_sources": 0,
+  "new_items_found": 0,
+  "kept_items": 0,
+  "sources": [],
+  "message": "预置演示数据：发布到 GitHub Pages 后，将自动开始获取最新新闻。"
+}
