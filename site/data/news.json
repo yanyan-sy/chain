@@ -1,7 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T13:21:46Z",
+  "generated_at": "2026-11-04T17:08:38Z",
   "articles": [
+    {
+      "id": "eabe3ca4687e70f5",
+      "title": "共话人工智能！广外这场研讨会为全球供应链智能化转型赋能",
+      "summary": "",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54VTA2bzJXYmszcm5ueV9RUjBXZ21UR1BvRFowRE96WXRlRkkwV1VUd2xHRlZiaW1fUlkwbVRrQ3REMnJoSFNFTi1VOEJWeFIzZXVYc21YQnJMUFdGLUJBQ0FNWGx2dEZlNGZsQnVQNHVodHVVOW9JcHgyYzZzM2s?oc=5",
+      "published_at": "2026-11-04T13:31:46Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "5a8e40f0455fd6d5",
+      "title": "第九届中国国际进口博览会深圳交易团采购对接暨投资促进交流会举办",
+      "summary": "",
+      "source": "新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFdqM29jbU5fMVF0MDA1bkpFRi0zdklhdzhrWnlGZHpCTlN0SjRqNDFLMHpUenhIelBfRlhreTc4SHo0QzhqbDl6Q210a29vbkhNU0V1T1Q3dUtjeERTTlBlUXdKN3dhOGpDNVFLREQxWTBfOHZhNVc1TWF2bWtDeUZic1QyV0kwOGU4alRBcWlkUHY1emVWdmpLb21LQmRTSmFMSC0tSWJKdlZnUEdtcXZ6X2RzMXMydTctOHVIX19CdExUNnZKSHJzWTFNcDF5M2thZm96czNHUQ?oc=5",
+      "published_at": "2026-11-04T12:30:46Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "6a4ef33205c06c58",
       "title": "具备全球供应链整合和交付能力的中国企业：从AI工厂到五大区域",
@@ -230,6 +252,17 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93Nm5BaS1EVjFzeEZzSXRfS1Bjdm9TR29STzlrdlJ0QzVSZzQ4OEZ2Rk1mRU5meDQ4a0NDMzloLWtKdmJOZkI5THFuTXN0T3V3MlNDWmNTZG9xVTN5?oc=5",
       "published_at": "2026-11-04T02:40:17Z",
       "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "e02ac555afaab1f0",
+      "title": "宁德时代宜昌再落子成立供应链公司，从2015年收购邦普到2026年为供应链“输血”，龙头企业的产业链整合逻辑没变",
+      "summary": "",
+      "source": "网通社",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12T2Y4SXRYd1dqYVhha0NnT1hoWUhWckdiaDNiQXNXdEpSQWlrVE85dkJ1R3plVzZ6d05NSGZlNUhQamtfX1FRRHdWSFdia3o0MXo4U1ZEWWlxeV9E?oc=5",
+      "published_at": "2026-11-04T00:43:09Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -476,17 +509,6 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "9075d3b86f1ff3ac",
-      "title": "国安达（300902.SZ）新增一起对外投资，被投资公司为强脑智身（厦门）机器人有限公司_公司新闻_财经",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjQl9lZ0h2ZW5odTg1bjZQeWFNY0tqbjFqX0lYS1JuVmtreUJnNmgwSGRKWUdFejVUbHN5N1I2d1lpQS0xU29wTlFCNGRhRkNhSFhoSlhuS1IxZWpTNWsybg?oc=5",
-      "published_at": "2026-11-03T21:08:34Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
       "id": "8651f08c433e8e5f",
       "title": "国安达（300902.SZ）新增一起对外投资，被投资公司为强脑智身（厦门）机器人有限公司_公司新闻",
       "summary": "",
@@ -498,12 +520,12 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "b1c426c53330fcf8",
-      "title": "恒道科技（920177.BJ）新增一起对外投资，被投资公司为格灿光电（台州）有限责任公司_公司新闻_财经",
+      "id": "9075d3b86f1ff3ac",
+      "title": "国安达（300902.SZ）新增一起对外投资，被投资公司为强脑智身（厦门）机器人有限公司_公司新闻_财经",
       "summary": "",
       "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MYUJyNkI5bWREOHl3cW5iQTN2aVJZcXp2T1dtSWpSY0xOM2VqNDV2YXVTMEdvaC02ZGhiXzRRVDBWQS1qdTl6RlFXOXMtMlh4eXJrQVExUHdpOXRZbDduYw?oc=5",
-      "published_at": "2026-11-03T21:08:24Z",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjQl9lZ0h2ZW5odTg1bjZQeWFNY0tqbjFqX0lYS1JuVmtreUJnNmgwSGRKWUdFejVUbHN5N1I2d1lpQS0xU29wTlFCNGRhRkNhSFhoSlhuS1IxZWpTNWsybg?oc=5",
+      "published_at": "2026-11-03T21:08:34Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -514,6 +536,17 @@
       "summary": "",
       "source": "证券之星",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hR2VzdzlpQ3dzMFZWSlVHNXNBVkZwMEI4UXJPeTN4SUduRGtkM1hLSlVSZTlzV1d1ZzRRU0hPUjcyamsxREJXenFLazIwVy1YLWhXVlF6UV9oWUtPakxaWkZySlQ?oc=5",
+      "published_at": "2026-11-03T21:08:24Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "b1c426c53330fcf8",
+      "title": "恒道科技（920177.BJ）新增一起对外投资，被投资公司为格灿光电（台州）有限责任公司_公司新闻_财经",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MYUJyNkI5bWREOHl3cW5iQTN2aVJZcXp2T1dtSWpSY0xOM2VqNDV2YXVTMEdvaC02ZGhiXzRRVDBWQS1qdTl6RlFXOXMtMlh4eXJrQVExUHdpOXRZbDduYw?oc=5",
       "published_at": "2026-11-03T21:08:24Z",
       "category": "产能布局",
       "language": "中文",
@@ -626,6 +659,17 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVnZaS2V4VUpPR3o1S193SkVkeGswa3IzNnJoTjk3N1VGVlEzS0NVOUNELWt6c3VIWG5rZU9ESzB3YjdZaXJfSmZmNE5fbXRE?oc=5",
       "published_at": "2026-11-03T15:00:53Z",
       "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "85964f2b174c7381",
+      "title": "越南快讯：越南中国寻求深化全球供应链合作",
+      "summary": "",
+      "source": "风闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmVGV3X2VaekNEaXR5dU1KUGtzeTlBdmdNWTZwN0FKcmdCaTdlTFQ2TkExNHdKYkpoTnA2TlZGeHNmemV3Tlk0VGdOck5NYmd5RTV3VktHQzdDeUk?oc=5",
+      "published_at": "2026-11-03T13:04:21Z",
+      "category": "综合",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -817,6 +861,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "2bc6590450988a16",
+      "title": "韩土签署4份谅解备忘录，涉及核心矿产、稀土合作等 - 阿视亚经济",
+      "summary": "",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81eE9sSHByRzVLU1IwNWIwRTV3amduUTVySkdpSGtBbnVkbzZmVFZTM2ppQlRmOF9yLUpFOGZ0VWZQUVhqTDYwOXlSTGhvZmMwSEpDb0N0alBvUy1yNUVjay1NQ1E?oc=5",
+      "published_at": "2026-11-03T09:06:12Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "seed-3",
       "title": "花旗预计台日韩企业赴美投资持续增长，供应链重组带动跨境资金需求",
       "summary": "花旗国际业务主管表示，台湾、日本、韩国企业赴美投资可能继续增长；制造业投资将依次经历购地、建厂和运营等阶段。",
@@ -912,17 +967,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOZl9qaGRoRFlxNlFEbmUxeVVYLUMyMmtNMjNvb3N6SVljTFc0S1U2Z3Zsei1SampxLXdWdGVETUZaeXFJdUFPNXpHUG5BLTFTOHBHLWo4Tlc?oc=5",
       "published_at": "2026-11-03T01:52:00Z",
       "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "85964f2b174c7381",
-      "title": "越南快讯：越南中国寻求深化全球供应链合作",
-      "summary": "",
-      "source": "风闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmVGV3X2VaekNEaXR5dU1KUGtzeTlBdmdNWTZwN0FKcmdCaTdlTFQ2TkExNHdKYkpoTnA2TlZGeHNmemV3Tlk0VGdOck5NYmd5RTV3VktHQzdDeUk?oc=5",
-      "published_at": "2026-11-03T05:10:09Z",
-      "category": "综合",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1764,6 +1808,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "3e99300c779e06a7",
+      "title": "不断拓展金融服务进博的边界 让展会握手变成实实在在贸易合作",
+      "summary": "",
+      "source": "人民网-上海频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTzdPZzFjOE1yVllPbUpCWEVhbFctR1BLYklYS283MDJkempxU0RoVmNRdEFPRGxMR2NmMzZOY1FLenZFd1VKejVnV1Q1SU5lOFZrel9LMWZKTExzM3hPVDFHbXJCVFcyamc?oc=5",
+      "published_at": "2026-11-02T01:31:00Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "3cd51c377c21072a",
       "title": "山东汽车产业链上市公司达28家，今年产业营收剑指7000 亿元",
       "summary": "",
@@ -1847,7 +1902,7 @@
       "source": "Fact.MR",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HX0FpX1hqZnhCUVVicHVfekNHa25xTlBxSWdDRzYyTkpzTHpHcy0xX2NpLVNoM1M3RnhWRWoyT25UUndfQ2FsSy1rbGhmY2tBcEZWUGRCR2RlckRWTkEzOUJyR1hHZERMUGI5cWtwelZHUVBxZ0E?oc=5",
       "published_at": "2026-11-01T18:30:00Z",
-      "category": "综合",
+      "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1925,61 +1980,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Zl9YZXE0NTFRZ3lmdGlFa1pQZnRxOHpScms2Qi1CamtlWFd5bGRrWUJrUzJ4OEoyYjdkbnI1VXpEYUlJWjhybHZXbHhoVmlscUd1WDVrMFQwXzNHUEVHZC1CclF4QldRSVE?oc=5",
       "published_at": "2026-11-01T13:06:11Z",
       "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "1703e5a1dacdf70b",
-      "title": "从“卖产品”到“输出品牌与服务” 中国外贸企业“出海”更从容",
-      "summary": "",
-      "source": "搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvVG0wLU02bDNxTlg4dDJWUVJZakt1bHpSX3J2NGVQT25vT2pzNHppVjk5X0FxQ2JrYlBsdmhyV3FlMnBSWFpkUFhJV3QwLXA4Ync?oc=5",
-      "published_at": "2026-11-01T12:45:40Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "d34f0aac068d2d75",
-      "title": "台湾研议扩大先进半导体对陆出口管制– 加拿大新闻网",
-      "summary": "",
-      "source": "Vandica",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSU4tYVRJNkhzUEU5NFZXT2M3NXRUU25fb1BiLTgzTUk0RFZrMENNd1NHUDhXVEZfUVVTcFpxZzZQVXZVN0k2NFZZNFNQR0l1VHh5ekZvZkNIRHlHdE8zUDJDanNKcmFtOXAyalZjcnNHNEU4OGF1clVrSkRVV2J0am1ONWFkeFQybkVaSG9OdUJ4TG5Xbml5bjFkMFJjMmFFZ3Y0WTRIU0owcEVfV0pQem9nVWhiVVV1Y1ZGRE9VQmtvME9RWXM2UXRrblc0VkRRdnphcGJOclZEbmVianUwWEdNaXpBeDViclYwaC12eXZYc3VjQmREREZVOENXeFJfV1B3NDBfM1dycEU?oc=5",
-      "published_at": "2026-11-01T12:32:58Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "ba96a9d015197dd3",
-      "title": "四方安全对话严重关切经济胁迫 承诺加强供应链合作",
-      "summary": "",
-      "source": "早晨报",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxSVNVN0xuT2hWSkIyY09LbGtoOW9mU1kwOWs4NU9WVW15bk52UmtWcVhNLVBQMjA4ZVNYSHhfb0JMd1VTODcyNk5YeTk5RHZYT3pubHU5NXlLQjBlVWJfdzM4V3dJdEc2dm9IYQ?oc=5",
-      "published_at": "2026-11-01T12:30:00Z",
-      "category": "综合",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "220d592253d6eae7",
-      "title": "对华贸易局势仍紧张？欧洲企业直说了：美国才是最大挑战",
-      "summary": "",
-      "source": "新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ3B0STRyTkxoLUQzZmgtRFJWWjdsUW9mVmNlWFhFVC0xNHNYRG5vSmpZaTkzam5pank1cFg0dmphYUp4S3hVaUdnbXc5WUd5WDRYTjZna0g0bjBvaGpMVUZ0dmVpeVYyNHBYME9YQ1h5b2xnZTlZaVZqU0dlZ0xVdS1IdzNpM21paVdmMklZb0tpZmJa?oc=5",
-      "published_at": "2026-11-01T11:47:00Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "12a653f632132ccf",
-      "title": "中秘自贸协定升级议定书生效 新增电商、全球供应链等章节",
-      "summary": "",
-      "source": "Shangbao Indonesia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3dEWm8wNzVNSDlGMzkySjRfTlBKVDdLV0hVa3JYSFd3SUk5MkRUcndxZkhLeDNMWFVaTHBrNUNKWkhNSEJnR05iSEw1NE9QV0p4LUhReFlYaTZkMDFPU3ZHT2U1ZDdQNG1sTThfQU85WGJUVTRKcm1rMjlpdk1hX1pxRTlZUQ?oc=5",
-      "published_at": "2026-11-01T11:37:00Z",
-      "category": "综合",
       "language": "中文",
       "origin": "RSS自动聚合"
     }
