@@ -1,7 +1,62 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T01:22:40Z",
+  "generated_at": "2026-11-05T05:12:55Z",
   "articles": [
+    {
+      "id": "b8edc1f38ac09bdd",
+      "title": "“投资韩国峰会”吸引20亿美元外商投资",
+      "summary": "",
+      "source": "Korea.net",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIMmpCNjdOZklBaW8wZ3hwbDBoUU5tYTZzdGdET19teDlJWFB0SHl1dVlzTlFabE1SX2lidmdxb2RhYjhPeG1PT01zTTFvR1UxM3h6NDE5dGFBcjJIRWpHWDlrdnhPeVptM1JGUmJEMVN4N05J?oc=5",
+      "published_at": "2026-11-05T04:51:41Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "7a550f7bfc83e14b",
+      "title": "中国台湾《贸易法》修正草案拟扩大对大陆半导体出口管制",
+      "summary": "",
+      "source": "电子工程专辑EE Times China",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SdTRXWXZZR1lGQWZiMG1JT3J4MmctM1M5ZGxINVV1UGh1VWZhZm5ZWERkVXhOdlFpQmwwU2h4Yml0a3V3ekkyc1JvZXVBRXJTOW5zdXZyU1I4Q21a?oc=5",
+      "published_at": "2026-11-05T02:47:02Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "b53288d065c86fef",
+      "title": "稀土为何成为中美博弈关键筹码？北大学者归泳涛：中国优势短期难替代",
+      "summary": "",
+      "source": "凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXRERMZWRNWXJsYXhiLVQ4LTJtbnpDM0pRSERWR2pINi05MHJWUE1pVnlOODBnUlBzZDEzTklpRFJOTDVPTC1aUi1pMUhnT1VaV2c?oc=5",
+      "published_at": "2026-11-05T04:11:28Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "8a45a339204222ae",
+      "title": "美加贸易谈判进入新阶段 加拿大能否摆脱美国关税压力",
+      "summary": "",
+      "source": "MNewsTV",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GTWpncUpiT0FFZThsV2MxYkoyY21wSllwT3VtQjE3Vk5WcFhHalNHaWo2YjNoYzRtaTBaUjE1M1NyQTl3X2FiNWJR?oc=5",
+      "published_at": "2026-11-05T01:37:58Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "0de627884e677b6b",
+      "title": "民主党“蓝色浪潮”冲淡移民及关税政策风险 酒类股集体走强",
+      "summary": "",
+      "source": "金融界",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qY2o1NjBFM0dmZnZmc0VoVGRYUGl6emk1ME0ybjdUanp2d2VmOFptZG1FeXhpeXByejcxS1BrNndfY0RiR0FCdVFYTW9RdnZzVUNhcmpObFlSZHRDRDRZb2U1Sjg4OUo4TDZucjg3MHRRODJl?oc=5",
+      "published_at": "2026-11-04T23:33:02Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "5ecf07a976d552eb",
       "title": "美国中期选举民主党胜出…大韩贸易投资振兴公社：关税政策恐无大变: 经济 : 财经日报",
@@ -14,10 +69,10 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "57b0665646796c8c",
+      "id": "9745c8ddfa17963f",
       "title": "章鱼能源、新能安与宁德时代签署合作备忘录；10月新能源乘用车零售销量预计为114.8万辆丨汽车早参",
       "summary": "",
-      "source": "www.mrjjxw.com",
+      "source": "https://www.mrjjxw.com/",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRFFRVVFhVm02WUxRbEM0bF96bkRPNkNJNXRIZ3hPdnZIRE1tSjFYQ2xEaVJiMHp2Um5SamVPUm9KVkJJMWNGUTh6TUktM3lNNlc1TG1tcFJ2M280UnJVcG1aX2l1dw?oc=5",
       "published_at": "2026-11-04T23:00:09Z",
       "category": "科技原料",
@@ -175,6 +230,17 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LX3VQaDZ1TldqN24yTURINGphRDVCQXZhY3NrYWlhbmhDYmpqQWNya0FRMW04WE15ZmIwUTFFOGNWMmJ2Wm03QTN4dkY5THhpcjZkR3Y3VDg?oc=5",
       "published_at": "2026-11-04T09:04:43Z",
       "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "16dfcd12a3c394d1",
+      "title": "36小时交付背后：广东制造在供应链端接住新需求",
+      "summary": "",
+      "source": "21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaWk5XzNvZmFzWkJzclhLZ3Y0a3U3VkZLb3lCUVh3dGQ4WTY4UDlMQncyZlVXWjVaRUpIQmhyajZDaGMwSnU1OVlpQk95b1U5Vzd5QXJFT3RleERzSy1kR3ZNOG1rYzBkTl9tV0lJaVFpSGROSmJDc0YxaWdxdUtzUTJkT2VXdWpDZmFpNUI5bw?oc=5",
+      "published_at": "2026-11-04T08:55:21Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -846,6 +912,17 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GcEZSZm9oZ1p0a1dpYlFBUXplTzhGM0ZFUkh3em9UeHBYMDE1Y2pRSFZBWGdCbW1jQTU0MnpKR1dOWDZUdEVxVlp6czE1YXE4V0Qzc2RqRXZZLXZJM19RVnU0Ykk4Nzg?oc=5",
       "published_at": "2026-11-03T11:07:24Z",
       "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "3b98b5ab439ce2c4",
+      "title": "越南政府常务副总理范家足：推动进出口市场多元化 提升贸易治理效能",
+      "summary": "",
+      "source": "Vietnam+ (VietnamPlus)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56cnJyUXhHcmdHbk9tU04taC1vOFh4YVRwYmZlM2lqZTFMTlRRTWdaUFhSR3FLcUhwTXFCN09Oc0VuUDlWSGlpVzJfMUNrZXhjb0tXSVUwbWxkczNU?oc=5",
+      "published_at": "2026-11-03T11:03:25Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1903,83 +1980,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xMGpHS0MtWUdMZy1zS053QTNHZ3JqcTVmbnlMMGw4bnZaQjhDN3gzNnRFMEwtbVhGTEVzN0tFVmV3UVRrQ09EV2JtTmZKT044VWVEd3FR?oc=5",
       "published_at": "2026-11-02T00:40:04Z",
       "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "eb58a70e991eb117",
-      "title": "阿联酋航运将印度至红海航线分拆为南北两条",
-      "summary": "",
-      "source": "维度网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1scjRMMmNmNk1kUXBidC15ZDdhb09SblFmTXhrckl0eG13UEJvazFGQ2RDS2wxYlUwWGdhcDMwS1hxQ242Y1lGUWJhaTlsNkVsdEp1RjVxRVE?oc=5",
-      "published_at": "2026-11-02T01:54:00Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "0b5e31a0127f20b4",
-      "title": "Q3收入稳增，海外打开成长空间_公司研究_研报",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfUm0zS3hLdHRGeDk3ZWkzTHd0MmV0dEtZdXZVX2NxMGtkVVNMQmUyenN1b1N2UWF5MXFGWkxEMGc5TXZSRVRNWklOc09iWk4wU3VEVXVzVjZUMkpfb1A5MkRR?oc=5",
-      "published_at": "2026-11-02T00:12:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9b5ec0a92c7841f3",
-      "title": "新微半导体第二代700V氮化镓E-mode功率工艺平台正式发布",
-      "summary": "",
-      "source": "电子工程专辑EE Times China",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiZXJfUHJOOS1kdGh6d2pFYlhRZmM5bEx1U2dob2I2NFVJV3V3YjMzeTFRUlc2TUU0QzRnZGltcE1CV1BfWnEyZXJWMzRkMjNSUXBv?oc=5",
-      "published_at": "2026-11-02T01:41:28Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "3e99300c779e06a7",
-      "title": "不断拓展金融服务进博的边界 让展会握手变成实实在在贸易合作",
-      "summary": "",
-      "source": "人民网-上海频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LTzdPZzFjOE1yVllPbUpCWEVhbFctR1BLYklYS283MDJkempxU0RoVmNRdEFPRGxMR2NmMzZOY1FLenZFd1VKejVnV1Q1SU5lOFZrel9LMWZKTExzM3hPVDFHbXJCVFcyamc?oc=5",
-      "published_at": "2026-11-02T01:31:00Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "3cd51c377c21072a",
-      "title": "山东汽车产业链上市公司达28家，今年产业营收剑指7000 亿元",
-      "summary": "",
-      "source": "山东省工业和信息化厅",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDLVl4TmpFTk5oNDFkelJ6b3VqaWFxbDdSNUtfWEZya1ZNV3kzNHlfVlNhcEFEcF8zRE5RUlZjTWZ1VjU3M09Dc2VrZUtlWDNBNndfdXQxUlZ6dFhac0VfM0xfMWhyZ18zTnpiN2JDU1gwZw?oc=5",
-      "published_at": "2026-11-02T01:14:30Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "bccae1172fad74d3",
-      "title": "葡萄牙丰沙尔港投资500万欧元升级系泊设施",
-      "summary": "",
-      "source": "维度网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WemdRYlhaWjhXRE5USkhmY09ESHdDZFpEWF84UkRzZkpTeFVlekFLUkRER2gtTjQzNzBSTGxVdmUtcDgwNlFpdVc4TXg1bndPN3ZVaWZkSXY?oc=5",
-      "published_at": "2026-11-02T01:06:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "4fe822baf3897825",
-      "title": "摸索中的绕行路线——当国产AI芯片无法再用先进工艺",
-      "summary": "",
-      "source": "电子工程专辑EE Times China",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ORFBBYzhQekZfLUw5eVJISUpVTTZOMVZER3N0ZDVFRW82blBvY3U2SnVrSEtoZFloODRJdVdnTjRKV1R0a2JKTUZOVXdUODI3UHhTSXNqZU8wMnBs?oc=5",
-      "published_at": "2026-11-02T01:00:00Z",
-      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     }
