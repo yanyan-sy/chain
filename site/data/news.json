@@ -1,7 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T21:04:10Z",
+  "generated_at": "2026-11-05T01:22:40Z",
   "articles": [
+    {
+      "id": "5ecf07a976d552eb",
+      "title": "美国中期选举民主党胜出…大韩贸易投资振兴公社：关税政策恐无大变: 经济 : 财经日报",
+      "summary": "",
+      "source": "재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aV19nTHBYMUxqMzVMRVd4dDlvbTRGblR0NXRnMHNBd1dWOWRpRnhrQm9MaDdxQ3daS3VXeGVKendkTFA0aDN6Q3pSRDNLVERGSFdnSEJ6VmVCRVBZallyNlpR?oc=5",
+      "published_at": "2026-11-04T22:55:00Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "57b0665646796c8c",
+      "title": "章鱼能源、新能安与宁德时代签署合作备忘录；10月新能源乘用车零售销量预计为114.8万辆丨汽车早参",
+      "summary": "",
+      "source": "www.mrjjxw.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRFFRVVFhVm02WUxRbEM0bF96bkRPNkNJNXRIZ3hPdnZIRE1tSjFYQ2xEaVJiMHp2Um5SamVPUm9KVkJJMWNGUTh6TUktM3lNNlc1TG1tcFJ2M280UnJVcG1aX2l1dw?oc=5",
+      "published_at": "2026-11-04T23:00:09Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "7500bce52d829e37",
       "title": "加拿大铝业盼美中期选举带来减关税契机 学者吁勿过度乐观",
@@ -10,6 +32,50 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuRzh0bVhuSkRCdHc3RGU4Y0lqWk5xOGtYampET0lKZmZrX09pUlhqR0pNSUJGOUg1TU5UaXBlb2FUb3hsVVZDdmtHb3RJd1Ft?oc=5",
       "published_at": "2026-11-04T20:03:41Z",
       "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "193a843b16d3ea37",
+      "title": "铂力特（688333.SH）新增一起对外投资，被投资公司为铂力特（苏州）增材技术有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Jc2VfcDVOOGVqNjdJTUF1c0Y1ZldmSWpIUFZJRGNNVnBYcUFOYk5Vc3B1U0gyRlJFaUpTVUdTQXMzYzNPYTBzN3BlMllxRjBMYV9qVDlEVE5CR2k1U0hQOUVOekQ?oc=5",
+      "published_at": "2026-11-04T21:02:32Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "71247e58ba812a29",
+      "title": "三超新材（300554.SZ）新增一起对外投资，被投资公司为江苏博达新能源有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iUlBCMWxRdG9WM3plZjU2MC0wNUoxaTRkTWExZkcxRV9ReTNOUGRoUUpaZm01b0FmSXh2YzY4TENDM1hJQi1nOGF3UUhDYUdBQ3pPSXdFRUV0eHBLR1RjLTdQNWo?oc=5",
+      "published_at": "2026-11-04T21:02:21Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "c6195c4f0de20c0b",
+      "title": "阳光电源（300274.SZ）新增一起对外投资，被投资公司为马鞍山阳光储能科技有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GRVlaUnB3LUxXNmVleUZTT0ZUZFJhUW9Kd0U4RjNoTFVvbmZNek9aMFQ5emJRNHA1UHlha3Y3Q01hS19OYUpWLWhwTUg0eXZSazMtdm5XWEU4cnU2b05Hd2tCMVk?oc=5",
+      "published_at": "2026-11-04T21:02:19Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "82c0b2618e9c4166",
+      "title": "四川九洲（000801.SZ）新增一起对外投资，被投资公司为四川九州光电子技术有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yNjRjLThSLWRydHF4MkJ3Q2lJY004RXI1THd5aFR3TjhCOWFRQVV6RmhzVmVyOUZrSjVPN2cydUFNa0dzU3RaSFlWZ2lRek4xdGloSlB5bDJoS21sT2hMZG5FNjg?oc=5",
+      "published_at": "2026-11-04T21:01:37Z",
+      "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -86,6 +152,17 @@
       "source": "搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFNDVEJOc2N4SVlkQlRESVhPNkdYZVktUVZZaVNqd1ZfRG1LbGUxZmVOaFFFZDIzNnRUWExHN2E3WXR4Sk55RnlpQ0tsUW9rVm01dVdYNzVQUlphZUVfSlQwaGJadDlCMTR1TXkwQmFoU0p0dGY4dXhVM1NCNTV3NmFtRURiejVVZjVMRg?oc=5",
       "published_at": "2026-11-04T11:23:35Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "3d5fcf14a5954135",
+      "title": "绕开爱信和采埃孚，中国车能被宁德时代卡脖子？供应链大洗牌",
+      "summary": "",
+      "source": "汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GdFNpclNKblZSSWtKOFFFVGpIZjJJZ1pOXzFldEVRNHA0Znl2dDdhb0YwY2FxRXVVdEwxcUwtZXlzWXFJRXFjOGNQWXM4RXdBbFlWWkpXbWVucTA?oc=5",
+      "published_at": "2026-11-04T09:37:44Z",
       "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -406,6 +483,17 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rZTRiX3N5RTBzTXJuUHhsRU5jUmNYYjQwUmlGZnZxVVY1N0xiWGk5VW4yWnNzOGFQb0Zpb18tOTNHQ2t6ZEFhZXA0elVRaTlHSjByZTRtTm1sQnRpdnYyLUdma0M?oc=5",
       "published_at": "2026-11-04T00:12:19Z",
       "category": "综合",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "ed3208addc137219",
+      "title": "长安汽车10月份整车销售超23万辆 其中海外销量同比增长77.3%_大风号",
+      "summary": "",
+      "source": "凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtZXRUeFl5VHNlQzk2R0tHY1lBTzNVbF9qdk9kWUoyVk96eFdCc0Zzb2RuSnhjMXY4NTJCVjdqcl9kLVFSX0hVUlc3N0w?oc=5",
+      "published_at": "2026-11-03T23:57:02Z",
+      "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1621,6 +1709,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "f9921c2030ca059d",
+      "title": "广州港10月预计集装箱吞吐量233.2万标准箱 同比增3.1%",
+      "summary": "",
+      "source": "观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85NG1yTzZ1RzJ4cDV6cnBfVXYxX0g0QldkME0zaExfOGx6eFRkMy1OdWc2aWpQbmN3YWk5ZGF6UFFsZm9xWWd5YkF2ZERQbC16djJya1l6VzhjOU5LZDFlWFN3?oc=5",
+      "published_at": "2026-11-02T08:24:30Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "d73a5b3063714143",
       "title": "制造业B2B平台+AI解决方案推荐|数商云：构建智能供应链新生态",
       "summary": "",
@@ -1880,105 +1979,6 @@
       "source": "电子工程专辑EE Times China",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ORFBBYzhQekZfLUw5eVJISUpVTTZOMVZER3N0ZDVFRW82blBvY3U2SnVrSEtoZFloODRJdVdnTjRKV1R0a2JKTUZOVXdUODI3UHhTSXNqZU8wMnBs?oc=5",
       "published_at": "2026-11-02T01:00:00Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "cb516489bb844429",
-      "title": "11月2日投资避雷针：上周五纳指收跌2.9% AI交易遭重挫 英特尔跌28%",
-      "summary": "",
-      "source": "财联社电报",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82SGJwTG5oMjhHUU5rN29qU2g3SVhRR3Z4elVvWTBZN05NWmh4NTB6bklBVmlBbnBPM0h1SUVlVWNQMFZXVVE?oc=5",
-      "published_at": "2026-11-02T00:23:44Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "b6f97162b53b8273",
-      "title": "“史上最严重抛售”工厂爆炸后股价暴跌28%……英特尔损失8000亿韩元- 阿视亚经济",
-      "summary": "",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpYzB4VFNaMzJOWWRiUXRUQVl2U3I3dzdRUGhtd2p3eEEyRWlrRjFYclQ1S0RiSHRqeUV0RzctcGFDNGw0VUItMjdLanpaUUhlOWgtZ0FKNnpMZWhmem5MSU9tZ0g?oc=5",
-      "published_at": "2026-11-01T23:39:19Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "8e88ce64b7a28b28",
-      "title": "美国将助马达加斯加建厂炼稀土",
-      "summary": "",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOcmVfdU5NSTFoRXN2cGFXR2dvUWxrUHVqS2xqY0hwR3dnZGhacjZVMzZWVmRsOUdpQk1mcnJfMXZvV1l0NlhwZk5rM0ZLZncwN3dhTk9FN2NRemhEOXNyMWVaaUtDWEZNMUl4YThEMThHTjhHUVJzRDZuVV9BZVZmdFV4TzBITmd0WXpfRFZRdlBkVml2Sk1lUHFxUWdaQ0VITGlCMWtvYlNmN2gxYjBSZ2ZpdmlJTTdmdU1OSmpINXBvaVpuMUNSaTVPVi1jZjFDRFJFc0VXTWhVdTJFNjRBUTlIYVJENVo1a3BPTnhMeGV6Ymo2YWU2MHFOczRoRGRZLWFUX3RnRlZYdVlYZ05xdXkzYnF6bnpmaDg5ajBLTUF4aGxsVW01a0xuS1VIVTc2QUdiNm92YnFQbFRlcEJveDdXZFM1ZmxpV1B0TlJydG5pcXJNaGU5T1RPc0ZVd0ZmSW5J?oc=5",
-      "published_at": "2026-11-01T21:51:30Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "854f890e3ddaf75f",
-      "title": "点亮智造，全程护航：施耐德电气的绿色智能工厂赋能之道",
-      "summary": "",
-      "source": "中国能源网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oUFJZMDlwamlGMHFLNHFkWXlEWXVvRkJUU01qSGlnSk1mZEtlNEpMZlg1LWFsaXFkTWhmMnR1cmRnZEUtQzJYbWpPRkhTcEZ2ZmhOblBTNklHNDlP?oc=5",
-      "published_at": "2026-11-01T23:30:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "35ee101289953b66",
-      "title": "供应链区块链市场规模、份额及2036年预测",
-      "summary": "",
-      "source": "Fact.MR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HX0FpX1hqZnhCUVVicHVfekNHa25xTlBxSWdDRzYyTkpzTHpHcy0xX2NpLVNoM1M3RnhWRWoyT25UUndfQ2FsSy1rbGhmY2tBcEZWUGRCR2RlckRWTkEzOUJyR1hHZERMUGI5cWtwelZHUVBxZ0E?oc=5",
-      "published_at": "2026-11-01T18:30:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "d0066a3882c0a07f",
-      "title": "捷佳伟创（300724.SZ）新增一起对外投资，被投资公司为北京硅元半导体有限公司_公司新闻",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwOGlTRHVNNVZtRmdXd1h4THEzZ3dBY1NXcGN5WkhkeHJhV05TTWpIVS1IWTc0YUJNLVR3bUxuUEwtN1pySndOdGxIOFA2UzhnVVRkVzdYWWZtaXBkekdjOGsxalc?oc=5",
-      "published_at": "2026-11-01T20:07:48Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "0171ad2cca555ea3",
-      "title": "国内动力电池十大品牌有哪些？",
-      "summary": "",
-      "source": "汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SYW1yX05iNVMxRENNMFNoQjZmTTBDUHhQQk5iTnF0MUdjSktfcFhUSmIxejFxeGluUDhmTkM5MXh3XzQ5RnYwMlJHcTBoS093TVdsakhoMGQ?oc=5",
-      "published_at": "2026-11-01T19:12:00Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9acfa97035c14617",
-      "title": "科达制造拟1.127亿美元在肯尼亚建浮法玻璃厂，中国建材企业加速非洲本地制造",
-      "summary": "",
-      "source": "虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51cmRKSHBsUnZ2aWVwV2xYMEJzOFRzWkdRYVZfeTc2X1B5a1JaOUdPMi1VOEdvZ2hKaEpIU1B1QXVKaG9rV1pKQnl3VWQ0RWphNW5jcg?oc=5",
-      "published_at": "2026-11-01T16:20:38Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "be95a0459e549801",
-      "title": "特斯拉电池版图再扩容，欣旺达凭什么成为第五极？",
-      "summary": "",
-      "source": "汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MYVM5NVZPSjl3akxXeTExQXlZcHpGRUt0LS00MGhpaWlsSDdNX1lJMzZ6bHV0LVk1SFd6Y3psWS1tRlpST2hKRUJRYVB1RjJOLVhGWUxmTDRPNjA?oc=5",
-      "published_at": "2026-11-01T16:01:20Z",
       "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
