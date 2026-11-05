@@ -1,7 +1,161 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T05:12:55Z",
+  "generated_at": "2026-11-05T09:15:28Z",
   "articles": [
+    {
+      "id": "7fdad46831651947",
+      "title": "全球供应链失序：断裂点出乎意料，车企何以接招？",
+      "summary": "",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDVPV1l0emdYNEVWYm5ISURSMmtwenItUHB1SUxWbXJocUo2NFdqbU93LV94bWRhejU1UmpqRE12WFA4OEd4NXdZak8tMGJTVHhWYUlWSXBtRHdDalJIc0dxYm5JU1FmQl9PeTZKcXduajFxS0xFQ2tYcUhSOTB5Z0NPZ2huTHRYNnVFUUhMVmZQUQ?oc=5",
+      "published_at": "2026-11-05T09:07:18Z",
+      "category": "综合",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "3f9e7e8280aad284",
+      "title": "中国对扩大采购美农产品持开放态度 但须先落实对等降税安排",
+      "summary": "",
+      "source": "早晨报",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByWUgycW1wRnR1bWVINHFwNXFSOWN3bjlUSGFuMXBBSjlkSER6V3EyUEN6UEN2RExHM2puTHJqTTdkOWI3bU1Zb3pvVTJkWU0weFNBOWZCQ2R5dmUyMkdUem9GTVNlNDB5?oc=5",
+      "published_at": "2026-11-05T08:35:00Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "79362e8ab3e174eb",
+      "title": "大马迅速扩建运输基础设施 安华：打造世界级物流枢纽",
+      "summary": "",
+      "source": "Newswav",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSEY1YmNzLWhzOUZqX3BNWU90Ykd4XzJGUXppdVRCOVhobzZlNGN5RkRKY3Bfam5VTnFlWjRKZjRwVFJNWlNBekhyNldjbHREd3d1VjlvSHMyWWl2bkxLeXNOeGg1bDRsSWlVREV0T29vYTl3Y3JsYWg3SGQ3MU4wT3RDSENqV2hpaGc4TnduN3VZSnBDclpFU3RrbVV5UTlZbW9Oa1dSOFNmcGhBenRubmlNcDd5UWF2amI4VUxMNHF1NTJMaFR5ZDBzNllEbFJCVXRlUlFXV0JreU1YdUlhR250Rmg4WDJsNGxvSmw1dnU4QTRKNW93VUFLSnN1VXdoTXdqWlZZQ1kxdUl4Y3YtNkhtYS1vRkZiTXd5aTdvcDFkN0VraWp4LVN1d3JITmZtWGl5WmFmSEdjbjBnT0JkdXdqejd2d3I3ektlZ0t4czhwT2o1YlpJamRlbENtSlYxR2RQdFZRemgxdw?oc=5",
+      "published_at": "2026-11-05T07:40:02Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "51a1d10f9a1b0165",
+      "title": "英发睿能印尼7.5GW TOPCon电池基地披露最新进展",
+      "summary": "",
+      "source": "集邦新能源网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4c0UzMG9DNkVJMU9idGNaUlJEa0NjalZVbjBLMW4xSFFvXzZPYXdQeFB0YzZCVWJRdm9qVWdWamZVYjNrck4wclpDRXRTazBPWEROZWFVX3pCazhMN0N6eGZ3?oc=5",
+      "published_at": "2026-11-05T09:00:00Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "fd01f350935ebc8e",
+      "title": "印度要求2027年4月起外贸审批全面线上办理",
+      "summary": "",
+      "source": "维度网",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92aG1NRm1kRElQUDRRYWZhbGRmNUM1ZER3MnUtak90VEZ4eDhpQ0pLclJJMkVVTERwT1g5RHVfY29yVE9rdVF5dTJaZ01NVHZnRkpLdV9TTGE?oc=5",
+      "published_at": "2026-11-05T08:59:00Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "f8ccb45b63772d57",
+      "title": "美日“构建关键矿产供应链”…韩国进退两难",
+      "summary": "",
+      "source": "朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcm80VUl3YVlHcHBhaWtncE1BemJrckp5bVlBTWh1YWtXNE5yeDh4dGdBM2xWbVpzVmRoUzJJaDRiWHpvTlVqZ2NPV3VmeERwZXZ1Y1ZyOGY5dlI1dVRhMHFKbzdSNHFubWFFLVR2WXNob2k4MmZsbzlSVW5Bc3A2UUpHTDU0RFNIbm81MG53?oc=5",
+      "published_at": "2026-11-05T07:12:23Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "dc4c6a46a9760b56",
+      "title": "直击进博｜全球厂商奔赴中国市场，巨头寻找在华新机遇：绿色、科创、产业链升级成核心布局",
+      "summary": "",
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OMWRzYUpiMUJVM1kySW1GOTNLTm5PX3JmUEFQWmoxU0JYSmdnaGpQRnU4SEdOU0lZZmkwYVFZbXZyaUNiMExzWmhjQUN2blVPYVF3dGFPQ2NJLUlOdmNTbWNWNFdWZw?oc=5",
+      "published_at": "2026-11-05T08:20:27Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "d524acecd899794b",
+      "title": "印度喀拉拉邦批准中央仓储公司启用5英亩仓储用地",
+      "summary": "",
+      "source": "维度网",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NSmhxcFhncjMzcjd0ZE5lMVZYeVBvcTk3eFctS1F4VGdvU3lSNlBSVHgtRjVNZ1NoUjlOVV8zeGpZTlJvYmRDVDE0VXMxRGEweTJKVlZjMVA?oc=5",
+      "published_at": "2026-11-05T08:20:00Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "5af77970de8c7c25",
+      "title": "广交会采购商创新高 中国制造为全球产供链稳定注入确定性- 国际",
+      "summary": "",
+      "source": "中工网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04M2xpdmFXTmxaYU1DQnItYmRVUF8xcVlub2xSZk51WE9tdmdiRUxKUlN2VmQtZDF6amdHZ29zQ05qcHlSYkZqT2dwZHotMUp0TUY2V3E2TXlKUEpwbk1R?oc=5",
+      "published_at": "2026-11-05T05:49:00Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "b4bc247c0671a256",
+      "title": "安华：大马打造全球物流枢纽 港口须从货物处理创造更高价值 - 国内 - 即时国内",
+      "summary": "",
+      "source": "Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wZzNnbnVkNG53QmdieG9ZT3IwbHJBUEozZlBDd3EybHNiS3NKYUZBM0dhcFNaOXJtREV4dWxjNVY0YXZ6VEdOWkp4Nnc5Ql8xdlplYmVxQVFMLVRXMDBjcFpnYUhmdw?oc=5",
+      "published_at": "2026-11-05T05:37:15Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "aa1d92eb58c166ce",
+      "title": "联邦快递亮相第九届进博会 展示AI驱动物流创新与全球网络",
+      "summary": "",
+      "source": "中国民航网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcW5NcFhycmdFb1hwa0xDZzhlaU9feXVkSUM3QVNnMldzc2Faa1pHSzdYOUxOaUw3Z2tGdUZWeDE4aHp2cERyRWdvNHJxLXJGNzVCQXZKcFVSWnZvU19UZHRCcHBtRWRERFE?oc=5",
+      "published_at": "2026-11-05T05:12:00Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "8c3ef92d5f4f0475",
+      "title": "美启动贸易法301条调查…旨在对韩国等16国加征关税",
+      "summary": "",
+      "source": "朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTNzbzNuUEhLWVpYcTZKNTBfWGNwV1RLNzlQQllVTHVELVRPQXRucWFqUGlmOV95TV9XSk5sMTQ3cnZjQUVvMTlfd3ZCcEgtZEx0V2lJTW5oX05HQ3dYbVFMVzhKYlZpV0g0eUhhN3FLeEZDdUNibkd6U09kWHBvQjg1elRWWktMOW5oMXl5emtfc1J1VEtGZFFzdlBsYXRO?oc=5",
+      "published_at": "2026-11-05T04:53:28Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "20552f64ce2fd4ed",
+      "title": "Daiso投资12亿设全球最大配送中心 安华：盼更多大马制造产品流通全球",
+      "summary": "",
+      "source": "诗华日报",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fSFhZRWU2b2NrcE9CMlplc0k4WXJaVzdKMV91V21KUkxzMjNtTWRrbjZqMHZYQ1NDcEZDWWc2TVMtckxjcTVTaTZ0YXJXZw?oc=5",
+      "published_at": "2026-11-05T06:22:25Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "d1f5b2118f4ccce3",
+      "title": "车企海外建电池厂，出海竞争变了",
+      "summary": "",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50VHVDR1M2OHhBWjJNRWJZRE1FbUtOTTN0WFlCOFg1NmVSekxzTFJsRDdDOU9fVFRrbTAydUgzODZtbzc1NXJlRi1GYjl0Qno2VE5uMW94Vm9vbjdIT2JuZTIwV192THlKZjk2ODhJNHg1SU01M20xeEk1SGZOQQ?oc=5",
+      "published_at": "2026-11-05T03:43:00Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "b8edc1f38ac09bdd",
       "title": "“投资韩国峰会”吸引20亿美元外商投资",
@@ -47,6 +201,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "a9973df4135c5a7f",
+      "title": "智利港口货运司机罢工威胁车厘子出口",
+      "summary": "",
+      "source": "全球果蔬网",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkV5QWphNnJqcTdOeDdxVmxqeXVoTlF4Q0pNZUxkQ19mUnptNEVra25UNHVwUWtwNDAzWUYxa3VkUzhiS09ib0diOFR6QlZlTUhqSWhJRFAtdzZrRFhxU3ZHMFFmOFlWa28tLVAxT2dKR2xzcUNqQWdPSExJcWRNLURrQWZJelBmbXB2U3dpd3k3QmpWRDItdlNuQ1kyS2tPclJOMlFiMWhrUQ?oc=5",
+      "published_at": "2026-11-05T01:30:00Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "0de627884e677b6b",
       "title": "民主党“蓝色浪潮”冲淡移民及关税政策风险 酒类股集体走强",
       "summary": "",
@@ -65,6 +230,17 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aV19nTHBYMUxqMzVMRVd4dDlvbTRGblR0NXRnMHNBd1dWOWRpRnhrQm9MaDdxQ3daS3VXeGVKendkTFA0aDN6Q3pSRDNLVERGSFdnSEJ6VmVCRVBZallyNlpR?oc=5",
       "published_at": "2026-11-04T22:55:00Z",
       "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "5e58613ade78c50e",
+      "title": "福田牌纯电动洗扫车申报：宁德时代电池 能否获市场青睐",
+      "summary": "",
+      "source": "新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN1ZIZFg4Mk51dVpDRWV6WjlTZUtQYm40bmpTbWJhRFJtMHlKR2lFbVZXQlRJNFRnbmhuY3VCS0xORFl5XzdYN1NpNGlMeGJSamtfZlhxZFYtbTh4NWJ1aGVOX3A5MzJnb21TM2tEMHNmM2ZXY3M4aDRrZEFuSGF1Vy1Zdk96TDduUl9VdERaUjctOExKOUg3NXBYa0pPZmFQRHpxbXdxM1kwck0tUWpMSWhHWHBiWTVvZE5RN2dUSjU3R0dEalF0bVF0YXFyVktkcjEwVk5iS2IzUQ?oc=5",
+      "published_at": "2026-11-05T00:08:11Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -119,6 +295,17 @@
       "source": "证券之星",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GRVlaUnB3LUxXNmVleUZTT0ZUZFJhUW9Kd0U4RjNoTFVvbmZNek9aMFQ5emJRNHA1UHlha3Y3Q01hS19OYUpWLWhwTUg0eXZSazMtdm5XWEU4cnU2b05Hd2tCMVk?oc=5",
       "published_at": "2026-11-04T21:02:19Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "aeaf48a0a141eca6",
+      "title": "科思股份（300856.SZ）新增一起对外投资，被投资公司为苏州德比电子材料科技有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kOWF0eEhybkhzSW43bms5N3k2TzM2YXVSX3NMdHdGSVdWR2hKdGhaVmo3ejFjZEdHWXhkMjhPMUNkSXFGYnkyT2M1eWVtb3FjZW1JOVB5clJONFZoNEhQWERrRmc?oc=5",
+      "published_at": "2026-11-04T21:01:52Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -1764,17 +1951,6 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "8c3ef92d5f4f0475",
-      "title": "美启动贸易法301条调查…旨在对韩国等16国加征关税",
-      "summary": "",
-      "source": "朝鮮日報中文版",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTNzbzNuUEhLWVpYcTZKNTBfWGNwV1RLNzlQQllVTHVELVRPQXRucWFqUGlmOV95TV9XSk5sMTQ3cnZjQUVvMTlfd3ZCcEgtZEx0V2lJTW5oX05HQ3dYbVFMVzhKYlZpV0g0eUhhN3FLeEZDdUNibkd6U09kWHBvQjg1elRWWktMOW5oMXl5emtfc1J1VEtGZFFzdlBsYXRO?oc=5",
-      "published_at": "2026-11-02T07:07:19Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
       "id": "2a488abed2158ab9",
       "title": "台湾，推进扩大对大陆半导体出口管制…涵盖芯片、材料、设备",
       "summary": "",
@@ -1803,182 +1979,6 @@
       "source": "财富号",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yWGF2X2twUzY5NDV3eWdDRTNHM1NzTWJEUTFOX2FVMFZzdWI2QlQ4YjNORS1BVHBpYTE5MFoySmV0eEUxZ3VOTE1ydU5Bc1N2UHphcWVDeUwyblMxSjBjYkRDVGhGU2ZiVTcw?oc=5",
       "published_at": "2026-11-02T06:34:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "7a3b32ffe755c339",
-      "title": "小米巨资入股电池厂家！",
-      "summary": "",
-      "source": "搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XMm5FNGRkTTJaaU1JamRoSjZIOHg5c2lBTDFoZkUxQ0ZZT3VYSU1GWXdqUU5vLWEzazJRU24wdkZCYjYxWFkyVEZWekYyT09lUG1pdEphRkJycFA4akc3YQ?oc=5",
-      "published_at": "2026-11-02T07:54:25Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "61e1c1de97cc99a3",
-      "title": "鹏鼎控股扩建泰国PCB工厂，现有产能满产、单栋厂房已盈利-出海启示录",
-      "summary": "",
-      "source": "至顶网",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhRk5yWUVUQUtibXhfUGEweUNDa09GWGo2MjRTTU1lZHp0QzdzYVNleUpSV1c1OXk2LWxCazhyZmE2anR4SGpRY3FYSjYyTWZtSHBzSzNiblFNd3NqSHRqVGxlZERZbW8?oc=5",
-      "published_at": "2026-11-02T07:09:32Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "82029f85179db854",
-      "title": "从全球采购商到中国源头工厂，中国大集正在连接更多生意",
-      "summary": "",
-      "source": "中华网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6QXpvbVdXZWZwbGhvaDdNM0NTUHY0LW41aU5qemktWmppZG1XeXNCb2xrU1A4SllnbE9aQUluQ0s0Vy1qOGpaalVlb1FzWV85WVFPMkMxdER1Y2ZNOS1PN0lWWlZHMlotb1Vj?oc=5",
-      "published_at": "2026-11-02T05:02:28Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "839835120fc0f5f1",
-      "title": "视频 | 成交金额超4000万美元，海珠区三场贸易促进活动助力广货出海",
-      "summary": "",
-      "source": "新快网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmcUdvR2lEWG9XMF82ajlWVE1nVHpUdFBQeGZnbzBVMFBsNjJtaUp0aV93YWZLckdaT2lxUDdGZ2E2RkVvenNyQl9XcElBVk1ZYVU2RnJB?oc=5",
-      "published_at": "2026-11-02T06:39:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "e0c21059a8982cb1",
-      "title": "产出与订单齐增 大马10月制造业PMI升上荣枯线",
-      "summary": "",
-      "source": "KLSE Screener",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPMEFxTURoSHNNZ2JMdExfbU9BcU90NHVENFNEQTRMSkRKSkI1RFpXNXZPMzhBTTZiQzJKdlhjdE9lZUhmaXI1dlJHNkFOWUc1NWZfMDFUeWFJWEQ4a0hPQ1ZTNFA2R2NBVG1fLVMxMlZ6cTlKemZ0UFRTTTktZzh2Y0F1ejhKMFdMUGtkVVZaa3NPY1AxV3VQQnI2UjhYOXlwd0o5bV9xRnFkNTd1QkluZjhzSXMtZHRCRFBFWEtXT1ktUFVodnpvNGpwdnBwRGxRVDg0YXpuVGt3VHhPZC03cUdQMjlNdWF5b1dDZ0paRXJuTHlwWDU5UzE5dkNWSnpobWwwbkhjNFowTk0xMm5EUlA2Q21yWlBMVTdKLU9YT1RxbzFrTGhpbzdTdEY2TGZ5aGFZbUxoOWlNQzJiaGow?oc=5",
-      "published_at": "2026-11-02T06:07:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "86b973b35727cf90",
-      "title": "特斯拉、三星在贸易调查截止前反对美国对越南商品加征关税 - 新闻和统计",
-      "summary": "",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNazlEclkzcE5Gejk5MjEyeUpJeUo3SlNTUXpmSkwwZW5BdDU0TzhmWnVsZTZ5RGczeXFEejU5OVVpWWJaNndhYXJoaFhHSUdENDAwZEVqdVBBUE1EajZpSDltcGZQVy1uUFlrN0E5QkJmT0dxdXZJYlhMTHdfRjFPQVk1c0theTdVY0VFdTFyVUs1NEJ5Nko0ZlYzeUwzbW9KVXRscjRibl9xTXpRcXBacmw1Vmpyc2dyeWcxOVgtZUhKTGtEYmllQw?oc=5",
-      "published_at": "2026-11-02T04:00:43Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "24c31a8afe61d02f",
-      "title": "中国广汽5000万元投资泰国电池PACK工厂投产",
-      "summary": "",
-      "source": "维度网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZ2hmN0taNWdKNTN0QWJJYTJMOHV6QkFtdWo3QllmX3BkZUNndmNFenNRbndvZm1TQzVvdWFJOGRnMDl3cnpXVktxbFRjZDBWakhqaW5jS0c?oc=5",
-      "published_at": "2026-11-02T03:32:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9212efc5baedb09d",
-      "title": "2026年11月广东油烟净化器厂家采购参考：供应链备选与断供风险核验参考",
-      "summary": "",
-      "source": "中国工控网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2ekFyZ1FNZWwteVpTWHM4SmdLelhqelJER1JoemhjSjVjeEg2elc4eDZMaEdWUGIyTkpZbkZaRndtMW41dzJPcE0yNUlKSkhuS1lJQ0NiQVRvbTFtZUxESlUyWHl3QQ?oc=5",
-      "published_at": "2026-11-02T01:48:53Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "ecaea217d82c2eed",
-      "title": "华普微IPO前分红1.41亿 向两大竞争对手采购额占比41%存风险",
-      "summary": "",
-      "source": "新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05aDE2SnRNc0pFRnRodWdxVGppY1VIZGhJTnk1eV91SmpMbEJFeU9jRFB2M0I5TXpOWjNXclhyVUEzTGFnSWlkeDh6TFRyc1RzdGdwcnZXeG0tUTFlRWFlcEtyRTdiNC1FXzJRMmlKVnZNRnAxQkE?oc=5",
-      "published_at": "2026-11-02T03:29:19Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "722d61d78e520eaa",
-      "title": "农心美国法人向美国政府提起诉讼,要求返还美国特朗普政府征收的关税。 农心是国内食品企业首次提起美国退税诉讼。",
-      "summary": "",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1faE82d3dPVll4VTFLVkY1dktRTmd0UXBTdFBKU2xlU2taWFhtdFZKczc4WWZjMkhBTHI0bjJVWWoxeHlnb3RvR2pUQUZJN3p5elFZ?oc=5",
-      "published_at": "2026-11-02T01:33:17Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "cdbd5c86e786afcb",
-      "title": "新投资放眼数码化高价值活动·政府鼓励制造业减少依赖外劳",
-      "summary": "",
-      "source": "Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MdGRvRm9acXVYVy1jUk5vZWJoR0hUdURUOG9sTzI0aEJaaXZubHczUTRFdkJaS3AxTVdZVDZMdmNoa3ZBYW1jUEJMUFV0N2tFZXNrYm1B?oc=5",
-      "published_at": "2026-11-02T04:18:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "25d2debb8e35ef3f",
-      "title": "海丝国际法商融合服务基地海外园区服务通道在厦首发- 经济",
-      "summary": "",
-      "source": "东南网",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QRFVER1JsZzJGNHk3b0otZDNDNFVEdDFKQ0pjUG1sRkYwZHkyVmhDZlE5dzQweHpCZHV0SjhrQTBUbHd6bjdPWlpBVXlZdHNjZkJhNXg0N21PazA2SndFWQ?oc=5",
-      "published_at": "2026-11-02T02:27:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "185a6e3ef5ef19cc",
-      "title": "日网：都认为中国发展新能源是因为没有发动机技术，不！大错特错",
-      "summary": "",
-      "source": "搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pNFRXQnBaVVdTVURxa1lrU1N3aUg4bEJoZ1RFQ2k3TC1Fc0ZYOVVVSXNZWU9IWlFVLUhReTBKX3BPaUtodEFlUjdGWXJJSWJ2MEJJ?oc=5",
-      "published_at": "2026-11-02T03:40:30Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "e733e4bf2356302c",
-      "title": "马来西亚批准DTEC出口700吨稀土碳酸盐",
-      "summary": "",
-      "source": "维度网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uZ0UzMlIxbVp5TkdVYVFESS1GVWhkMWplVWtXY2tvRFNTalBKSGpvU19LMnhOanVmOXUxeFJIZmQwRHpxMG9rU1ZOX0htYmIwUjdKbXpESFE?oc=5",
-      "published_at": "2026-11-02T02:53:00Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "bfeb8839ea627d22",
-      "title": "数智赋能产业链，环保材料平台与纺织平台共筑产业新生态",
-      "summary": "",
-      "source": "中华网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qS2NPUlYwN3hfUmJfa3NCbGhiTWp4MmNWZzhzRUJHTmtXdFFuYUFIZEloaXZJUDdKNUdZdzdMSUEzXy1PVlE5dlNIY1VmMnhFYk5HUDBUam0wbDRlRGc?oc=5",
-      "published_at": "2026-11-02T02:24:44Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "30292ea0ca9f97f5",
-      "title": "国铁商城50席中标落定18家供应商锁定三年| 邦小白产业周报- B2B",
-      "summary": "",
-      "source": "亿邦动力网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xMGpHS0MtWUdMZy1zS053QTNHZ3JqcTVmbnlMMGw4bnZaQjhDN3gzNnRFMEwtbVhGTEVzN0tFVmV3UVRrQ09EV2JtTmZKT044VWVEd3FR?oc=5",
-      "published_at": "2026-11-02T00:40:04Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
