@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T13:28:00Z",
+  "generated_at": "2026-11-05T17:25:08Z",
   "articles": [
+    {
+      "id": "afb9d8c2223bef6a",
+      "title": "从“供应链”到“共赢链”——以合规之基筑牢全球合作信任纽带",
+      "summary": "",
+      "source": "经济参考报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTi1VeGwyTWVmdWFDZ1ZyMjlKT1NsdWJsYnE3VUVESFNjNDRhVFdnNngyaFNvNV8zeDk2Q2NJTGFDYnZ3bXFTQ0RqUnYycEwzOFBoOFNzQWdlOC1wNnhacVRVUXJqSDEzUTR0S2Jva0JyYk45OGlrMk1sLVVLSmhvMg?oc=5",
+      "published_at": "2026-11-05T15:03:36Z",
+      "category": "综合",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "7fb636a7203c9c52",
       "title": "2026年中国国际公共采购论坛在上海举办",
@@ -58,6 +69,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "e8ba24bf2604c704",
+      "title": "宁德时代牵手章鱼能源，电池卖进英国家庭",
+      "summary": "",
+      "source": "汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HZmRfazFsd0c3NFJyN29JTjZhOXBnckhpd3lycnNVSGRZa1pkTW1LYk5fWlEyZ05uOG4td1RMWGprRHpXem1Mc2RNVXEweWFaVDRpeElMdzdQMW8?oc=5",
+      "published_at": "2026-11-05T10:46:30Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "3f9e7e8280aad284",
       "title": "中国对扩大采购美农产品持开放态度 但须先落实对等降税安排",
       "summary": "",
@@ -75,6 +97,17 @@
       "source": "IDNFinancials",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRG9KejJqZm9tV0gxWFBVbHlrVUtfYXZBU25qSXVvUUctcURtSlFDRnhWRU03Z1ZMb2pLNXk4VDVHM2dsTU5LZzJaQmVzWHJCTFp0YV9aYW56ZkRkeE56bVUwdVpfQndmV3ZOTWV3M0tuVGY3M1ctVXB0VW45X3BXTzU1Mml6bU9NQW94NmRTXzlNdjhEZ1FCT2VzV1M5cGY3aGF5VWVFSDVab1MyNDZRMmt2cXJ3bVJLcnRoVHVxYktxT0FYeW54YUZsRzBuYmtKZWdZX0FFRkx6WVRsRjdnR2FXWDlQeGtsWXR5ZDRhUDlELWR3d1dXRmZ1WG1oYzg?oc=5",
       "published_at": "2026-11-05T10:00:00Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "3e7e50e30ec5da7e",
+      "title": "民主党亮执政清单！上台百小时内推动医保法案，关税、伊朗战争和特朗普家族调查齐上阵-市场参考",
+      "summary": "",
+      "source": "金十数据",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uU1dvQ0d6cjRNYUdPdWlmU0ozeWZYYVdmZUtFSFZxZ19PRTVXU09VOW5RUS1ycFJ4RjdWQlpuYzZjN2dwX1lNckE2YTRlWm8?oc=5",
+      "published_at": "2026-11-05T08:03:58Z",
       "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -107,7 +140,7 @@
       "summary": "",
       "source": "集邦新能源网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4c0UzMG9DNkVJMU9idGNaUlJEa0NjalZVbjBLMW4xSFFvXzZPYXdQeFB0YzZCVWJRdm9qVWdWamZVYjNrck4wclpDRXRTazBPWEROZWFVX3pCazhMN0N6eGZ3?oc=5",
-      "published_at": "2026-11-05T09:00:00Z",
+      "published_at": "2026-11-05T09:04:45Z",
       "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -185,6 +218,17 @@
       "source": "中国民航网",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcW5NcFhycmdFb1hwa0xDZzhlaU9feXVkSUM3QVNnMldzc2Faa1pHSzdYOUxOaUw3Z2tGdUZWeDE4aHp2cERyRWdvNHJxLXJGNzVCQXZKcFVSWnZvU19UZHRCcHBtRWRERFE?oc=5",
       "published_at": "2026-11-05T05:12:00Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "b96cae9ef78128a9",
+      "title": "中远海运特运开通小漠港至希腊滚装航线：单航次装载4898辆新能源车",
+      "summary": "",
+      "source": "全球定制网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZRWd0cndXYTkybDZJbmFxV0dmeFZHbjZvZWZZZGlkbkRhUWVsTHo2UDR3dkhFaVp6ZmwtQzBiLUNJalZRaWlBaVhWaVB4Zw?oc=5",
+      "published_at": "2026-11-05T04:57:16Z",
       "category": "物流风险",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -339,17 +383,6 @@
       "source": "VanPeople",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuRzh0bVhuSkRCdHc3RGU4Y0lqWk5xOGtYampET0lKZmZrX09pUlhqR0pNSUJGOUg1TU5UaXBlb2FUb3hsVVZDdmtHb3RJd1Ft?oc=5",
       "published_at": "2026-11-04T20:03:41Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "3e7e50e30ec5da7e",
-      "title": "民主党亮执政清单！上台百小时内推动医保法案，关税、伊朗战争和特朗普家族调查齐上阵-市场参考",
-      "summary": "",
-      "source": "金十数据",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uU1dvQ0d6cjRNYUdPdWlmU0ozeWZYYVdmZUtFSFZxZ19PRTVXU09VOW5RUS1ycFJ4RjdWQlpuYzZjN2dwX1lNckE2YTRlWm8?oc=5",
-      "published_at": "2026-11-04T20:02:59Z",
       "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -546,7 +579,7 @@
       "title": "中国台湾拟进一步限制大陆半导体出口 违规转运处罚加重",
       "summary": "",
       "source": "Caixin Global",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XOE5OanFDNm1RaHNrUGRBZEU3eWhuUXpxdVo1MjNFUjg5alRpQm1PNExhVTZzSUd3bURIZDkweE5wYV9icTNHVERFUGpIU2kzS1Ixa3FRcXA4ektiUmZ3UFV1VTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRSnFILVpra0VSSTIxZ1hvc0llUWtvUGg4Y2ZhWEVtUkdPU3FSdmlBcGM2Tzc1OUtnRXFacDdUa0FnR0RDZ1V4ZUFybk9iVFpYRkFYTFJPWW8yNHVBQ2pNamRwZDdfMUE?oc=5",
       "published_at": "2026-11-04T08:55:00Z",
       "category": "科技原料",
       "language": "中文",
@@ -1121,6 +1154,17 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVnZaS2V4VUpPR3o1S193SkVkeGswa3IzNnJoTjk3N1VGVlEzS0NVOUNELWt6c3VIWG5rZU9ESzB3YjdZaXJfSmZmNE5fbXRE?oc=5",
       "published_at": "2026-11-03T15:00:53Z",
       "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "89cfc541c15156cc",
+      "title": "广汽泰国电池厂投产，7000套产能配套埃安Y Plus",
+      "summary": "",
+      "source": "汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qLWVCUE9oMVNGdmlrdFk3bWI5bHZ4M1dWZlVTd202UFNKR2FVc00tSkhWSjEtaWJ2dmIxYWRqRkF2bTd2UjVPTDZQdDZxa0JVXzZEX1Zjc1NlWk0?oc=5",
+      "published_at": "2026-11-03T13:12:15Z",
+      "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1936,50 +1980,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzhlNWlYTkVLYWF5YVVVbTV3bHNfUjBhVERWVl90SV9FOXdZTnZHdUlPRnJLbG5RWENPM0lPemNncGNTSF8tdTMwZGcxUVBSTmFNcTA3NFhXZENZeUZjb3BEa0NTRURpSU80VFpnUnA3eGlRcEYzUURTVHpHZU8xS3REd0ZlMUxrOFZxMkZfb3FjcVlLNnd2T2F5MFVERUZ4dFozeFdZOGZKQ3pHNnl1LWxiX2w4OTd2aWJjTXZoRWNqYUVrdVFvaW1VMkN3UG1HVkREVzdJMWl6RTBnazFfblBfR1k?oc=5",
       "published_at": "2026-11-02T11:00:47Z",
       "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "c7f5cdac66d123d8",
-      "title": "中东北非电网建设热潮：2026年跨境电力工程布局",
-      "summary": "",
-      "source": "新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zRU5vaFZpb0R1VGZHcWZ4VldOYzFHcXVYMmlWeFVLQWFkN3dpMlo0TFEtVERkWkJxS2xYckZwQVM2OU5WRTFCa1FDREt2UGJOZEI3SThEbGZNWnJTR1JLUzNEN3R4TVBEbGIwdnllTWRCNWk3YXFmWUNjamh4Zw?oc=5",
-      "published_at": "2026-11-02T10:52:59Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "f1db728f329eab7b",
-      "title": "索马里成非洲自贸区第50个缔约国关税协调与贸易工具建设成下一关_全球_新闻",
-      "summary": "",
-      "source": "华人头条",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zWjdxaG1xUXdtcXhzTWRiSi1abkFZU0huRXNkRlNpYldNd200Zzdqdy1DZm1wNWNRdERWbVk2VU9lWjdoNHllRUh4MHlRZFRYTm5lX1dVR3dudUQ3T3c?oc=5",
-      "published_at": "2026-11-02T08:52:00Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "202dd231e4fe702b",
-      "title": "活动报名｜11月6日【千问办公】制造行业专场—— 让 AI 走进研产供销服，重构制造企业的订单、生产与供应链协同效率",
-      "summary": "",
-      "source": "阿里云创新中心",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbGl3Ym5fWk5yOTc3ZG5UOWJOY25PSExGR0NVeTFHeTJEMzhyTzh2bXpEYkF1bnlVVnFMcmNOUlpGMldZT2NrV2VMOFdhSGxNbjJfSWNsWQ?oc=5",
-      "published_at": "2026-11-02T07:10:56Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "0c8f1f9c025c8e6a",
-      "title": "梦百合恒康西班牙将停产并启动集体裁员，美国订单已转移至本土工厂",
-      "summary": "",
-      "source": "虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qR1czb2I1blFfUmtfXzdEckR5Mk1jZ0prUVdEbW82RlZOenQzVnVUTWp4SW16cGUtdlU3eTc3ZXlmSjY5NWFPYjFpMTNQYU1SdndiOA?oc=5",
-      "published_at": "2026-11-02T10:25:29Z",
-      "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
     }
