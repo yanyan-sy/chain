@@ -1,7 +1,40 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T17:04:31Z",
+  "generated_at": "2026-11-06T20:58:07Z",
   "articles": [
+    {
+      "id": "58b92744bfd8d4bf",
+      "title": "中美贸易新动向：先降关税再采购农产品",
+      "summary": "",
+      "source": "haiwaiwai.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WV0pLM1ZXSWdvM0hYZHFFRU1MdEItNXB1aExURVo2UE9abFdqSFMwVFRVbExLaE5vUGNzQV9jMFV4NElRT1dybg?oc=5",
+      "published_at": "2026-11-06T20:13:51Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "7ca1e34bd93e9f93",
+      "title": "美国先减关税，中国再履行农产品采购承诺？外交部回应｜外交部记者会实录（2026.11.6）",
+      "summary": "",
+      "source": "搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLTNyZWR5QWhfek9CWEpWOUZTMnRzbS0tM291OFNoellnT1JyUjdsTEx5X1FaZmhsanlzREg5bEZDOXJxdjlNYjZiUUQzcHlIOXNscm5zYy1GWVFLNUxlXzNVVEE0QzM4NGdPVnU4N09zQ0dsOVdzbVZNcHgzaVdqMnpmMEx1SjBG?oc=5",
+      "published_at": "2026-11-06T14:23:54Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "a00f3cb8e65ba810",
+      "title": "莱尔科技：招商证券、泽恩投资等多家机构于11月5日调研我司",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xd2JUSURPZXJxc3d1ZHp5OVJhQnpRcUl0THlVSHRMM3dqZHdCOFVyMWd1VW5ETG9vS0RKLTFOSVpQbVV6dGpCc2V2WTJ2NGFCRy1JYnh0SEFXWWUzTzE5ag?oc=5",
+      "published_at": "2026-11-06T15:23:55Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "5a958494b24e7eaf",
       "title": "选举改变国会格局，要求撤销美国葡萄酒关税的压力再起",
@@ -597,6 +630,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "90ca1df961ec2f6f",
+      "title": "担心特朗普政府关税退款“烂尾”，美国企业被迫这么干",
+      "summary": "",
+      "source": "第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kSW4tU1Bnajhwc2lGVWN3Q2J4REh6eFhKdUdnVmZUNWhwZlJPc2RKN3RYOXZtX1Aza2laeHUwcU9oU2JsMzNXaWZublJMVmdUanMw?oc=5",
+      "published_at": "2026-11-05T06:01:40Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "79362e8ab3e174eb",
       "title": "大马迅速扩建运输基础设施 安华：打造世界级物流枢纽",
       "summary": "",
@@ -658,6 +702,17 @@
       "source": "维度网",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NSmhxcFhncjMzcjd0ZE5lMVZYeVBvcTk3eFctS1F4VGdvU3lSNlBSVHgtRjVNZ1NoUjlOVV8zeGpZTlJvYmRDVDE0VXMxRGEweTJKVlZjMVA?oc=5",
       "published_at": "2026-11-05T08:20:00Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "74114256c6c3926d",
+      "title": "【指数】洋山港国际航行集装箱船舶进出港安全准点指数（11.5）",
+      "summary": "",
+      "source": "搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZldQdk82aGJsOHVMR1Q1VWdkdnFIbld3M19QY29uX25Ba3RGbGF0TW8yVmh5SVkzQmsycU5reTZlMDFIcmttZHFWUDNPNGMxYWh4VkdGbVhvbnBpSnVKNE5SR3B3c21wcllBTURfTTN3MmlfMXlGZTJVbGlaYnU1blcxUDg2VTZ0Y0NEZw?oc=5",
+      "published_at": "2026-11-05T08:00:00Z",
       "category": "物流风险",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -1077,6 +1132,17 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SY3VmUk9RaDF1NWhNay1XU3RIWFVYN2lwZk5QMmc5Q3BRcnNucmRkV1dWcFJKYzZoMnI4WTRQZUZGSUNjU3FtWkVob0Y2N3MzUmtYX0pBYm50YUhxSkkycjBSeHVJRnc2?oc=5",
       "published_at": "2026-11-04T08:25:16Z",
       "category": "综合",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "82b226142f7848d3",
+      "title": "民进党当局拟加严半导体对陆出口管制，业界发声反对自断发展后路",
+      "summary": "",
+      "source": "QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CSlJhYTFORXR3NHQtQXFidnp1ekNCbGFOQ1NUX25OdGRQY1d2Q2RDZGNTVmd1Y1ZoMDYyZWF2VGFpY19pTVZtOXB5Q0ZiLWxVZG9aZXVR?oc=5",
+      "published_at": "2026-11-04T08:08:00Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1915,72 +1981,6 @@
       "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
-    },
-    {
-      "id": "fa5a57983c28e194",
-      "title": "中资持续加码格雷西克制造业投资",
-      "summary": "",
-      "source": "每日印尼",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XSU12NVpQQVB1aWltbDhNdHZoWnpPYUZEWlN6dzZoOVdEV09DLWxNUjMxa0FHb0hFOHBERlV4dTEwNHZ2a0dtR3A5VHg2MVJkNTlySDhaeDU3ZVE?oc=5",
-      "published_at": "2026-11-03T09:08:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "2bc6590450988a16",
-      "title": "韩土签署4份谅解备忘录，涉及核心矿产、稀土合作等 - 阿视亚经济",
-      "summary": "",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81eE9sSHByRzVLU1IwNWIwRTV3amduUTVySkdpSGtBbnVkbzZmVFZTM2ppQlRmOF9yLUpFOGZ0VWZQUVhqTDYwOXlSTGhvZmMwSEpDb0N0alBvUy1yNUVjay1NQ1E?oc=5",
-      "published_at": "2026-11-03T09:06:12Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "seed-3",
-      "title": "花旗预计台日韩企业赴美投资持续增长，供应链重组带动跨境资金需求",
-      "summary": "花旗国际业务主管表示，台湾、日本、韩国企业赴美投资可能继续增长；制造业投资将依次经历购地、建厂和运营等阶段。",
-      "source": "优分析",
-      "url": "https://uanalyze.com.tw/articles/7784258243",
-      "published_at": "2026-11-03T05:36:00Z",
-      "category": "产能布局",
-      "origin": "公开报道预置",
-      "language": "中文"
-    },
-    {
-      "id": "1d01e0d1b36b157c",
-      "title": "防堵破口台湾经济部严管芯片输大陆学界力挺(图) 半導體 | 出口管制| 中國 | 社会民生",
-      "summary": "",
-      "source": "看中国网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByNkJoUnplMDA1Z3d0N0w5MzdNZmNsc2s1M1hUc1FMNU5MS24tM2I3V09qS1lQNUtSQ3RYeXlTRFhRRXQ0U1BVQ3E5VWwtbXlzSnNwTlRRVncxMG9vQzFBRmtEVDlFc2hhX2pv?oc=5",
-      "published_at": "2026-11-03T07:10:00Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "4dd66240c9e5a902",
-      "title": "不关闭海外工厂也可获回流企业认定，降低先进产业回流门槛- 阿视亚经济",
-      "summary": "",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SNFdRRzFaSUZLZ05qbzUybVVTTEhtV0pTeHhqWGRXb1RoaURSelJrSlFtVUhSM2doZFJBendUZEhhTmNwV25JUXhQVDNxZXBPWEE4cXNtWDR4dWlLd3VtRUIzWFU?oc=5",
-      "published_at": "2026-11-03T05:15:50Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "seed-1",
-      "title": "合勤控：越南生产基地今年试产，2027年预计放量",
-      "summary": "台湾网通厂商合勤控在11月3日法说会上表示，越南生产基地已于2026年试产，并计划在2027年扩大产出；公司也关注南亚与东南亚市场拓展。",
-      "source": "中央社",
-      "url": "https://www.cna.com.tw/news/afe/202611030223.aspx",
-      "published_at": "2026-11-03T08:31:00Z",
-      "category": "产能布局",
-      "origin": "公开报道预置",
-      "language": "中文"
     }
   ],
   "note": "公开中文RSS自动聚合；标题和发布时间以新闻来源为准，未经逐条人工核实。"
