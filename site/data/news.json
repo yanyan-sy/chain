@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T16:52:19Z",
+  "generated_at": "2026-11-07T20:50:56Z",
   "articles": [
     {
       "id": "3c42951c6d4e19dc",
@@ -21,6 +21,17 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BdVJCUDZVbWFZbWIxMXRpWmVKam81Q1hZTnNqSlVRMWt3UFhZaG0wRUlWZ2JWTnVPRkkwRVlEalRXNHVwUEZhQnFtdjBwallGaWJybzlMWkt5TUpTSVE?oc=5",
       "published_at": "2026-11-07T12:57:00Z",
       "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "44aac1b5dde0d351",
+      "title": "新增6家！这些企业获岛内居民消费的“零关税”进境商品经营资格，三亚有…",
+      "summary": "",
+      "source": "凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nZlZVWGxYd0xjOWJmVGVvYUlTNDJDWTItSS1Camg5dXN1RXRTNWxfUzVFVkptN3JPTWtfNXppWlVvbkhoLTFNcVhULTk?oc=5",
+      "published_at": "2026-11-07T11:06:31Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -146,6 +157,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "a83aae257816a7a1",
+      "title": "美国关税压力下中国林纸产业增加值贸易路径重构研究",
+      "summary": "",
+      "source": "生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsTk1WLWZUM1NsQ3dtVm5kSzdsb0NFMjEyQkNWdXFuZ0dHZGR3cEdsQ0FZVHozMVBHQkhWUHJzZXRvN0VTMHl4a3JQTGkxMWF0M2lYSk8xNldDLWVaZV9JQW90MlhRa3RHQ21wTVZ3?oc=5",
+      "published_at": "2026-11-07T05:40:58Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "3e532f01e0b69349",
       "title": "苹果，被供应链“反噬”了？",
       "summary": "",
@@ -175,6 +197,17 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kX0Q1Rm1VQ1hpWlRmcEdTN3VFQUtWVjJiVHVhR1M2cktzT3g1Vkk0UW9CZFF6RUEwVFlGTFhRWDBjblhMZnlET1c0eENaT3NvSUNGTHl5V2VwQUo4dlJEaWl0ck1XTDljeVdjOG9nOXI1UHdieW1LMEtB?oc=5",
       "published_at": "2026-11-07T03:57:48Z",
       "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "b48517eb6b024903",
+      "title": "畅通物流“筋络” 推进“一箱到底、一单贯通”",
+      "summary": "",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOT01jNjRZUjV5Ukh2YXQwOEo0aFV5NFdxbkYxel96T0s4UmdRUnZZRVV0OXFMVXlpa2hIQUNlX1c5WG12a3luZFQzOE5NZ2xCNGRmVGhBY1J2ejFaQkVRV2M1cDRBYUFHZmdMLWJVVUNDdU1WMk55VEJMamZpdXc?oc=5",
+      "published_at": "2026-11-07T03:31:00Z",
+      "category": "物流风险",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -219,6 +252,17 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVFVnNmRqSjYxSkZ1Tmpsbzl3aGVBbG56eGtLbEcwdnZVNmI4R2R3M29MbnZPT2I4OUpDSVIxeDZaOXk5eEhoMFRCaFBQQ3FLSjRBd2ZQSEZuMjliUHNvcA?oc=5",
       "published_at": "2026-11-06T23:00:00Z",
       "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "955eb27851348609",
+      "title": "理想摊牌！宁德时代彻底退出电池供应名单",
+      "summary": "",
+      "source": "汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4azN3eTF5V2FWN2RMd3MxSm03TzQyMHEwUG5YMkpIdjdaMWNISTMwSnN4MHVvTWhQUGN3TGtJQmc3VXJ5TS1Wc3paWWZ1VkJCY2ktWm1uc1VrWVZfa3c?oc=5",
+      "published_at": "2026-11-07T00:01:12Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1934,50 +1978,6 @@
       "source": "朝鮮日報中文版",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDhGT1lTbVUzMXpxeGhKU0pZZElXa1g4Vzg3VWJTT01LWnhsaUNBMm9SS3Nfa2pyRnBRYjdiRTREZ2lfazg3V2FQZ0tjUS1VdlJuRG45dmNVeEVhbUNWWXB1X1FhR3BSV2lXb3JBdEZYZkg4NXpSSDdyQnRtVUNHNUcxWHlsWXMxMjRVRUI1b2Zjdw?oc=5",
       "published_at": "2026-11-03T20:27:03Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "f68eac347267e51f",
-      "title": "物流降本增效 为越南出口拓展国际市场空间",
-      "summary": "",
-      "source": "Thông tấn xã Việt Nam",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNelVqeFFURTRlQlZZdGQ0N3gxdzNETml0Sm8xdFBIbGdFeVVzU2JKTFJHdFNGWHVCTVlvMS04MElyaW9YQWEwVXBKMzg4WU5mbW1pQXR0Ykw0NkNzMy1EaFNQa18xT2Y0UzRJOXVWZ014ZkJHNVBJbDBUaDRQNEN2LURYd1d0TEhUVl9DM1lVSFkxN1JPRUE0RXI1V2o0SzZaamQ2allwTjk4a2xNTWFoS0NOYnpSb1lFa2U5SkRIcVF6UnFmNjNOODdtb3lvOTI4VUhQUUU1dG1XRnhZaHBnU1c3SEdxcHJ4X0VkZlc5dHBSUElkX2NNaS02UmZXWHN6dEh1aXhGcHZWcnJtNEktZjQzUWlxSkRSZTdBSG4wbFRSLXBEMkt3RVh6MGtYeDlvZF9HMVdGdExvbjN1LVBrQllCMXVhWDdPR2c?oc=5",
-      "published_at": "2026-11-03T20:19:28Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "964c48bb5a739498",
-      "title": "贸易协定生效后，印度8月从英国进口的散装苏格兰威士忌激增近1,000%",
-      "summary": "",
-      "source": "Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc3FqdDJ2bWhwRDhBQVhWbUtwZmJhandnVmdLZmdpbVZpNkVneDFGaW40VUZIa2o3emVleW8wWjBIejRZOG0xUFRJTzRMZ3VHRnhLWnFzV1N5WXhPRi1ZSEZETFlrN2hWQWlyV3l0TVRwWDN1dko1OEhacUw0Zy1Neko1Zm1obFBuM2hZNlUyNWRvN09IRlM0RktIaTRldmY1cVRPZHZtYWNRQzVpWHNoU3BxRW5YaUpra1JyWjFKOHctNGVOQ0c1dzRPNXF6Wjk4MnpGa3JJU2VGM2NUV2tTUnNR0gHnAUFVX3lxTE9SZ255TGsxT19YYUdkeEZVWHZiS3FlTjJDckR0REZwaVRqMm42VnZTV0NIUHRCa2NzN0VyTHZpQkQyeWVQWDlhQW1uTEVmQmpGV0Rqd1ZzcEViUG5kZU5VdFVnNW1rUHQway15RWpod0tCMkRUbWpNeDB6cmRPZVl3SnNLd2hMZ2pncmNSejA0LUZYRjVxdWNHSDNTMzY4MzVDU2twUWxyT0R0aUx4NU51WFpMTUNDZVJ2RU9YYS11WnQxTFhMQzZyV2RvcDhEOFVjU2JMTjJmY0NabUtRWWg2MWNnZ3lvZw?oc=5",
-      "published_at": "2026-11-03T21:38:26Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "8651f08c433e8e5f",
-      "title": "国安达（300902.SZ）新增一起对外投资，被投资公司为强脑智身（厦门）机器人有限公司_公司新闻",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50WTRHTFQwZUw2WU1pWW5QZlBEREk0Ukc5T2FQWXVIMVdEal9ybUV1eFVUVUh1LXNIMjZIa01wZEc1QWh0cHE3T1VLV1RVMndoajhabExxY3lOMGxJSV8yQUxsRVU?oc=5",
-      "published_at": "2026-11-03T21:08:34Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9075d3b86f1ff3ac",
-      "title": "国安达（300902.SZ）新增一起对外投资，被投资公司为强脑智身（厦门）机器人有限公司_公司新闻_财经",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjQl9lZ0h2ZW5odTg1bjZQeWFNY0tqbjFqX0lYS1JuVmtreUJnNmgwSGRKWUdFejVUbHN5N1I2d1lpQS0xU29wTlFCNGRhRkNhSFhoSlhuS1IxZWpTNWsybg?oc=5",
-      "published_at": "2026-11-03T21:08:34Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
