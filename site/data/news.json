@@ -1,7 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T05:13:39Z",
+  "generated_at": "2026-11-13T09:12:47Z",
   "articles": [
+    {
+      "id": "a3c4b6500fb31288",
+      "title": "全球海运城市排名出炉：上海跃居世界第二 | 港口圈",
+      "summary": "",
+      "source": "风闻",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ua0NnT3hjcExDSEZnd0JvTHM4N3NhZUd3VWU5NmVzVDMzb2JaX3JSUlpZMkdvNUV1MnZVMzdOdmszRHQtcTd3SHVaMzFZbkF2cG56ZVNTeXlkTVhyUF9OaUVvZHRjNlZhOE04b1FfVUtSQU9V?oc=5",
+      "published_at": "2026-11-13T08:27:22Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "b7ca8e9f61f66846",
+      "title": "山外山携手瑞士安姆科集团升级医疗器械全球供应链",
+      "summary": "",
+      "source": "m.zqrb.cn",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vRDVKQm5pSGhrcXNpd3NUZlYzTnlpTHhoOXQ3SngwbHBMMVFyOXpTNjd5UGtfYXFobTdHOVR0RzVmb09BSThCazQwczBYdDdJeUlNS1FELTBMWHR6RHk2VmRoQUhfZXhKTkdZekxlOA?oc=5",
+      "published_at": "2026-11-13T05:55:00Z",
+      "category": "综合",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "9da8308951425b34",
       "title": "投贸部否认放行Megaspeed 联手关税局追查AI芯片去向",
@@ -487,6 +509,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "394788e52a1049e2",
+      "title": "緬甸促美國投資該國稀土產業",
+      "summary": "",
+      "source": "大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kLVBKZ1hoVkdKY0Z5SXZvNm1zRmZtMW1yeHFZQmtyRnduOUJjbnk5dFlSQTJhRllUZ0d3dklpRkN2VE1IWTJBNkpTUnZWSFRoQWV0RmpLYTRHZllKRFZaYTZn0gFnQVVfeXFMT0ZaSkJwRHNadV9xb1c5bGVHQngwcmhjankwNVotdjVxZEkwRDNTV2V2S0RsVV9RS2pXQy1jNnVnX0VoX0dwQVBIWTdrTUNiVmNVSDNybUVZUTRzMU9OZHJXRkdkQjIzZw?oc=5",
+      "published_at": "2026-11-11T22:24:00Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "74bb9ba6ecb74b34",
       "title": "东威科技（688700.SH）新增一起对外投资，被投资公司为迪高电子科技（昆山）有限公司_公司新闻",
       "summary": "",
@@ -559,6 +592,17 @@
       "source": "证券之星",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxRTBiRGtOR2dHWGZmTWlUbW1NVDA0bzVYMmg0dXRENjJPWW5GZ0xramRYWGh6dWdUR3BmNE9fR0lMMVljWEM3VXRBU01aZ203UTltREhlVTVVNEw2Y2xWQkgzR2Q?oc=5",
       "published_at": "2026-11-11T20:01:37Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "0c675b7da9a45b30",
+      "title": "金固股份（002488.SZ）新增一起对外投资，被投资公司为杭州金启富元机器人有限公司_公司新闻_财经",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OS0RQM0hTbnpGZWFCNGktMURVX3ZXcXAta0w3MkoySTF2am5TdDVMZ3pWLWNnTVpwNlBmcE40V2h6OXNLX1k1Qll0aEU2X29GUVpIcGxsaWtxSndaOW05Wg?oc=5",
+      "published_at": "2026-11-11T20:01:22Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -1085,7 +1129,7 @@
       "title": "Jensen Huang丑闻令共和党也与特朗普对立……特朗普对华半导体政策遇阻- 阿视亚经济",
       "summary": "",
       "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJUG9NRXNoYjR2MlJ6Wk9SWE53TUVkV2I3dnh1eFgtWGFVLXl6OEV0WU1JNUZxTVlVSnR3Qng5eEJvblA4RS1tbkd0enZpR2RpY2lHRGQwdm9BaGktN25CS3IzLVI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EYk9UX2t3RzVNTW9HM21qRkJXNGdSR2NEMno0bXdmWEI3d2dkZFQ2ZGtNVUFDWGhYOHNFaUhmTmZCY2NSTlJIV0lWZHFzWVpudFZ3WXV0LXVuZnNUWW5KcGxhOFl6cG4wbzVWVmJoZ25TVElzWEs5dQ?oc=5",
       "published_at": "2026-11-10T21:14:23Z",
       "category": "科技原料",
       "language": "中文",
@@ -1730,6 +1774,28 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "149b63c2f9f5beb3",
+      "title": "控制非洲项目，中国加强对关键矿产的掌控",
+      "summary": "",
+      "source": "IDNFinancials",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZTNfUmVTcDZIZWt2NUpTRzgtSjB4WDVYVy10UTBOZ0paUFJlVVRudERHWHRiUFRkSTRmaGU4OUY1ZUo0R2NxUmtJeHdTSUVOd1QxRFJwOEh5ajY5S09KbWtHXy1IY0w4elhENUE1ZU51U0RDOU8xU29PX01ZQnM2cndRYlc1X2ZOcUFsQ3VjZGxVTm5zTGNqaFJPNE1hZW9nYlhXUEtGbDNxLWRFb0c4TlZNSmJWUmZtZDE2UUVzWHFiVUIybTB2cFVwcVFaeWRtajFnMlZQOFFOV3QwVUJidHcxYXpxbVRjMnk3WlpkQ3FoMHJ0dURZWVlrb3VzdFQwc1pNME03Mlk5b2R5amNwSWo5Q1ViMElJX3huVDMtc0tGSXJpckQ3WnJHMkNSQk0?oc=5",
+      "published_at": "2026-11-10T01:40:00Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "054aeaa9193727c6",
+      "title": "深夜中美经贸较量，美方急着要稀土，催大豆订单，中方亮明对等前提，不会率先出牌",
+      "summary": "",
+      "source": "搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0hXSm9nRWZ0NEswcTRtdFotYmFqSy1CYThQLWFCY3h6aXRJNS1qSENKck1Lb0N2WHgwa3JzUnlVdS1oQTJtMnVXaFg4ODlic005SHhPcFNRTExxNVRkdFJuSm1JVHZCZ1k1aVhYaFlTNHJZeGt2Q0F6R0dHWHVTUGdBT1JLSnlDS2FaUg?oc=5",
+      "published_at": "2026-11-10T01:37:52Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "9177d7215555096c",
       "title": "河北港口积极融入渤海湾港口群体系",
       "summary": "",
@@ -1912,72 +1978,6 @@
       "source": "TradingKey",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVHVINWdiMUxkckJEVXdWWmxQODNfbm4zUkZyd2JJOHBxZWkyMUhCdkR4M211c2VfdVFGcmxjNEJNWTRoUUhXSnF6cm9wZ2FhMDlSTTFzTGRlNzdRUWtIYkhua2JDNVhDbmlEcVRDR01OWWswR2duM0hYMFF4WFVSdFZZRWl6b0JPZW5fSXM5cHRsR1FGdEloeWM1TFNoREU4NW9JQ1VmdkdMMERZbllLMDdxSUtlREVDMG1TRkduMTdMTjhtN05zOUNmekRDU2lkdmRxbUxLcw?oc=5",
       "published_at": "2026-11-09T14:10:00Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9c4b5c96605a99df",
-      "title": "信用赋能国有企业采购与供应链管理工作研讨会在沪召开",
-      "summary": "",
-      "source": "新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03WE1ESEJqb1hXM2U5bmUza3htUkdfTFZNaWo2MEdULTlRSnNXNEgyUVg5NndqdHlwODNpUENRR2hReW1OVHg3MWQ5dlBmZWRVNHZUNTFibEt0V251bHpZSENsRzRPUjJjRkZNTWwyZVV1RmhtNkRab2E0aFQ?oc=5",
-      "published_at": "2026-11-09T08:49:01Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "70863f86936152d0",
-      "title": "回归商品与供应链：江苏零售业走向“自营深水区”",
-      "summary": "",
-      "source": "紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6ZG84Mk85bkhzM20teVBFU3dvbWNZNC0tdXU4OF9GMmJ4N1dsNF8takFtYzlPbkIzd2VwTGhkZXc5SHZWbVd4WUx3RWtKLXNWWTYtdVAyeVB0Vnh2anhCWkc3Z2Jxczc4Vm5UbkpMQQ?oc=5",
-      "published_at": "2026-11-09T11:29:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "ab90b2343cfedb2a",
-      "title": "在美要求全面落实釜山协议后，中国宣布暂停多项针对美国的贸易措施，为期两个月",
-      "summary": "",
-      "source": "美国之音",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGxtQk5SUGRhb0ZVNGtySi1lMHVwODl2V2hicEJGbjZQZEs1M2FWbEtaMHZwZ1liR1VFN25CQThCR2Ntcm0yNXBvZW1DREZEX3AyQUUxWDB4Zi1nLVpXVm9uUEIwNUpGczduUTktREJXRnlZbzJWRlVmT2NPdERDTG16bjB6LXlwTnJrSDRyY1hBRzE3SVZHOXNFb0MzY2cyRDlZMXo0V3U4OWN6SHfSAa4BQVVfeXFMTnRsbUJOUlBkYW9GVTRrckotZTB1cDg5dldoYnBCRm42UGRLNTNhVmxLWjB2cGdZYkdVRTduQkE4QkdjbXJtMjVwb2VtQ0RGRF9wMkFFMVgweGYtZy1aV1ZvblBCMDVKRnM3blE5LURCV0Z5WW8yVkZVZk9jT3REQ0xtem4wei15cE5ya0g0cmNYQUcxN0lWRzlzRW9DM2NnMkQ5WTF6NFd1ODljekh3?oc=5",
-      "published_at": "2026-11-09T12:41:08Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "e08b196a5c2b3670",
-      "title": "中国一汽划转两家零部件公司股份，重构供应链控制权",
-      "summary": "",
-      "source": "观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00X3BGaUp1TlZtc1NtcjRLbFVYTW56alhwQ09XTlhaQ1BYUUF1UmtadHhPbjkzX19WSHRsYXlObkJlN2xGNlhyek5YUy1pSElodEFCUGdrdEM5Y08tMkI5U3VR?oc=5",
-      "published_at": "2026-11-09T10:58:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "e847eaeaefdd7083",
-      "title": "亚洲物流航运及空运会议16日起在香港举行",
-      "summary": "",
-      "source": "www.hkcna.hk",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jcy1oc19hREt4SlFjakVFVnE1U0hKOWNVX05qRk05UnE3WjV1VmVGNjdKcURJVW9NVnNXSUM1Rlo3VURDZXJkenlEZXBzX1VBYzN0SUlreHZUS0IwR3ctU2l2WmU0VnpGX29hbmRJcw?oc=5",
-      "published_at": "2026-11-09T10:51:00Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "14fb17d67d58a4fa",
-      "title": "多元发展向绿向智 进博会折射新能源汽车产业新动向",
-      "summary": "",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52aXp5QWJLQVFoSGVWY2dLY2huNTJYWHhkVWFjVlh1VUpGdkNtUVNjRFU1X3ZMU25GYmFFeUJfWjd5eTEwQXBMNllhSTRra1AyajhLSmNXLWhnTUhvVW1LZXVua1M4Z1pDeWc1QVM3ZGtfUQ?oc=5",
-      "published_at": "2026-11-09T12:29:21Z",
       "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
