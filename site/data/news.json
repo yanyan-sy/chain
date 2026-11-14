@@ -1,7 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T13:07:38Z",
+  "generated_at": "2026-11-14T16:53:45Z",
   "articles": [
+    {
+      "id": "0025ef00e90fd9c3",
+      "title": "中国新能源企业赴欧洲投资建厂 缘何引发“人口贩运”刑事调查？",
+      "summary": "",
+      "source": "财新",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxVFVvQzBUdXAtWTN0ZVJtYXhfOFBub0tUbDFsdHYyVHRYeW56b1VUelNPaXhLd0VmSWhRUXJPNHA2b3o4WDAxaFQ3UnQ2MjlmTnhWZlBncTBrMFpFYWtnTA?oc=5",
+      "published_at": "2026-11-14T15:05:00Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "39788484b2df33d7",
+      "title": "功夫车一起造，看懂宝马新世代的供应链底牌",
+      "summary": "",
+      "source": "汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zaHk5cWtSOWxUbklhLW9ISkM3Mk85amlOV2dyMlp2OEtFcWpiMDNuRWFsOXZLbEttS3h5M1FBUWRJV2lDOE0xSnZGNm5lQmVVcGh0bklLa1BpODA?oc=5",
+      "published_at": "2026-11-14T13:05:53Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "c15dbabd4e21e201",
       "title": "Vietnam SuperPort首席执行官谈美国关税变动与为不确定性做规划 - 新闻和统计",
@@ -21,6 +43,17 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBERGYxcVdOQVZGM043MjBLZFBfdzNqM1VmR3FsMFBSUmR2Q3prZ2dzTVlkc2w5X01tVjNBTXd1X3pBeFJJWThoV0NSc0ZJdVdua0R0Z0pfWFkxNUZiUm5LZlc1MXU1ZUZHSlhZNg?oc=5",
       "published_at": "2026-11-14T12:39:06Z",
       "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "c781296bfc81080c",
+      "title": "受美国制裁影响…全球半导体设备在中国销售额占比“骤降”",
+      "summary": "",
+      "source": "朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHlGNXBCYTJka09WR1QxZlVKbVVyUWFZcElpcFV1LUp2UndfSk5lRkFHank4bjlWTUNMRi00V3NTYVhPQ0hBRGVhWE00N0hNckxoZzZocUxhTXhnT1hpZnFqUHlPS0ZBNnlsZEVJUXJLSE1YN1lUUVpfSGtha2R0SmVSb3pfRDA?oc=5",
+      "published_at": "2026-11-14T11:47:08Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -65,6 +98,28 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOVlGUW9uUFEyZDhyQl9HRUtvSnFGaEgyZVhsZ2djaGhDMkRUSlZxeF9Od0RqYXFJT0lUcTlwekhUb2ZNRWMzZTYtR2IxVUlJWFVaRmhTb29SbUpycC1wZ1FkOVNCTlBUZ2lMek9kUnl4ZEh1OGFweDRfRDNMd2o5ak5xY0VQMUVQUy1qMA?oc=5",
       "published_at": "2026-11-14T05:43:30Z",
       "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "5079a8d2b734c19f",
+      "title": "终止阿曼5GW项目！钧达股份跌超8%，光伏投资热迎拐点？",
+      "summary": "",
+      "source": "Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcGMzYTlwYk1aQzYxc3hURGItblBGNVFSaFRXaTRoRWVyR0g2TXZ2dXdwck5lUktKcFVGeWFUSmJxUDJyT2h4S2lUNDZ3N2lFOTdYQzk0RUFaZzdFQWYyNm0ybVpfdWZ2aEZIdHFzc2ZZNWdfczAweXQxdGFUSEhMNFd5elZveF84Uzcw?oc=5",
+      "published_at": "2026-11-14T07:05:31Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "b2ba93416c7f05f0",
+      "title": "重庆拓先进制造新局面 “欧亚企业重庆行”合作成果丰硕",
+      "summary": "",
+      "source": "新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDh4SVhvZjhVY181aVpzR2c1bnFOam8yTGk1OXM4TlZEb0tPNHp6OFRhVVdvZElyaWo4UGE2a3F6bEYtSnhrbmhITFFpU3llcWxIdGZHQklBWVNrN2g1dTNBNzZ2TGNIcC0weXlWZkFyVGZaZ0dCMmpueGZTLVF1VnpnajF1N3V3c2xOQ1lJZHdVbkZ3dEFobg?oc=5",
+      "published_at": "2026-11-14T05:11:23Z",
+      "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -505,17 +560,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNaERnVGROX2tsSVFlbDRNZGRjaUJXUmIwUjgwN05hVXJZUUVOSUNWN0pNSnljZXpmTWd3T3pDN3BYMG5TNzRCY0JSTE43cDJhVXA3UENaLVU4QkZzYWRJNFNTMWtNV0ZuUktERzR3dUk4UEJUdi1kZUJuajNaSHkwSkNmOFlUM281V2dBbUN0RmdKUnpNMGFGZkJWT254VWI5c2VwTU5wNGlqR2tMTjhSWl9OODgxbUFqRFJJemFsdEpIWVZibXpIbUxSaW1uQjRrYWlJa084NjdtYVRWUGQ3d1pKTWNNdlhrVGxyMWRmM3JXbkkwaVpHbEx2VXdaUEJ2d1k4S053alpnb1pOdkhON1VSLXZXSHl2VEdTTzBUdjFqVE40Q1NTc2p0ZjVsYzdRQnlaVkFaYWlfN1ZxcDZVeHpIUXRzdGM?oc=5",
       "published_at": "2026-11-13T03:25:56Z",
       "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "c781296bfc81080c",
-      "title": "受美国制裁影响…全球半导体设备在中国销售额占比“骤降”",
-      "summary": "",
-      "source": "朝鮮日報中文版",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHlGNXBCYTJka09WR1QxZlVKbVVyUWFZcElpcFV1LUp2UndfSk5lRkFHank4bjlWTUNMRi00V3NTYVhPQ0hBRGVhWE00N0hNckxoZzZocUxhTXhnT1hpZnFqUHlPS0ZBNnlsZEVJUXJLSE1YN1lUUVpfSGtha2R0SmVSb3pfRDA?oc=5",
-      "published_at": "2026-11-13T04:29:23Z",
-      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1934,50 +1978,6 @@
       "source": "上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yQ2kydFlTNlNTb0twUzR3VzZ0WERhdFYxNlY3dnBjVmVxVk1pdTljMEozTG00T1YxSUhGZDljQ1BGOU1XOWhTbUN4YzI3T2pna2VHLTE1WnZFRXVmQUE?oc=5",
       "published_at": "2026-11-10T10:05:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "aa34577ec2aed7cf",
-      "title": "中远海运“武汉-盐田港”海铁联运专列首发",
-      "summary": "",
-      "source": "Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkV6SDFZd3V4R1NNdGN5V2p6YUxId3NWUV9jSm1rUkRSLXFKRU9FZW15RmlENFBjNkNERm5YUFJwT1hVcHk0M0JpWkhUelZFTlhiNUkwVzFLZkNLcXVXenB4WFQwd1lNUEpkZm8xNHFya1ZvbmhzaTJnazBhOVVVdmZwQXgtWFQ0NTRwZg?oc=5",
-      "published_at": "2026-11-10T09:44:11Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "e725a9be34670a74",
-      "title": "南油物流承运页岩油成功首航- 船东动态",
-      "summary": "",
-      "source": "国际船舶网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyN2ducDRlRTJ4RXpkMm9RR19pcjZua1lNR2xlNWRwRXA4TlAwcllZR3JhN3pDaFc0bmRzWFpPNWVHQUwzbnFfWFBoVHNSQU1oblJybmVoVkhBM0RYaUJGdnJjT2JkSDh4UFJ4YzlfVGs?oc=5",
-      "published_at": "2026-11-10T09:37:36Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "73d61de69a9be7c1",
-      "title": "知名港航企业云集！2026年大湾区（广州）航运大会即将举行",
-      "summary": "",
-      "source": "Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmlmd3hna19MdGdwY2JCdlA4WFc1c3hwclpBaVM1ZWtlRFF6TWNabm5UNGZqUlF2U19paEszZEFTTFg4eTUzb2NQV2tnOE01QmdHalM0TkNDOWlkS1NlVjNEcldUcE1MSkRvbkpYOUk0eThjSElQblQ3Ri1VdmVSUG5DaTkzUDRZ?oc=5",
-      "published_at": "2026-11-10T09:34:28Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "d4c897c95f953da6",
-      "title": "江苏北人：11月8日接受机构调研，投资者参与",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aRjdtdzhFV2s4eF9ObWdxNFMxX25MM1Y2ZVpmeWxLdWVXQTZOQk4ya1VlcGtwZS0ycWszVkZLZkl4VERtNHl4UjREUGdIU2tvZ2gxWF9oTHZYMXBOT1lBNA?oc=5",
-      "published_at": "2026-11-10T11:09:05Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
