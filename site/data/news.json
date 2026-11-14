@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T21:03:59Z",
+  "generated_at": "2026-11-14T01:19:05Z",
   "articles": [
+    {
+      "id": "416d120a6a502046",
+      "title": "港真报｜海运周星期日揭幕_中国_全球_新闻",
+      "summary": "",
+      "source": "华人头条",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEd1FQT2JZa0VuSjVkempnQVExYzRZYldnLTNlR09SSmphdWI1dmRUSTgzLW53b2VLNTVqdGpVMUsydU9FWHlFeVV0U1dXekRqMkRMbkE5NWg1MENWQ3BCWi1sMzVYdnB4RG9RLQ?oc=5",
+      "published_at": "2026-11-13T23:01:00Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "4ad8a013db993355",
       "title": "特斯拉柏林工厂扩建不再新建Model Y产线，欧洲供应链将迎来哪些新定点？",
@@ -20,6 +31,28 @@
       "source": "证券之星",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNlhxd0dobmkyTnpTLWFvc00wZi1BUHZseTdTTnY3QlhONDZNTkdNNXA2SzJoZTF5dmZsREMtUko3SDIxcnlrdjN1aTZ0SGd3SUs4NXE2RVMyWTZmWUNoYQ?oc=5",
       "published_at": "2026-11-13T20:05:22Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "f589142cc9725e38",
+      "title": "西安奕材（688783.SH）新增一起对外投资，被投资公司为北京奕斯伟材料科技有限公司_公司新闻_财经",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zRDVYYUQ4N2VKTFNsaTVZdzJNVktjUmFsWlluSS15VmVyOW1TWnFvQ3hmQkdWYWFhVDZ0SlFEY2ViQ1cwQlBQZXRPOUIzcXRZX0l5NXlJanpLYkdyenFPWg?oc=5",
+      "published_at": "2026-11-13T20:05:22Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "d859e550c04dd600",
+      "title": "频准激光（688826.SH）新增一起对外投资，被投资公司为上海波准仪器科技有限公司_公司新闻_财经",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xQzZfN0RXVUI4TXNkSWFiQmpWdDlYRXVtbV9GUnV2c0N3YXNYdW5kZmo0SEhxRGYwcDlVaGZFU1lhak1SYmdaM21odVJxeVVaYlBsWUYxYXQtNWVhc2w2QQ?oc=5",
+      "published_at": "2026-11-13T20:05:20Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -47,6 +80,28 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "e1a8c8c03e301251",
+      "title": "集微咨询《黄仁勋事件背后美国政治博弈及半导体出口管制政策》",
+      "summary": "",
+      "source": "Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQall2RmloN3ljMlZQRV9TNXJEWmR1bjRfaUQyYTdLanpLbFd5ZHhvUVFjSDJGMDZuWXJ2eW1JSEliRGFHemgtLUdJcjZiWlp4R2JmV1hrazVab2FvQUxNOUVSaXkzYzRrWi1rakVybjN4UVpydGJ2N1dPTHBRWnBxMFBLc3A3QXFo?oc=5",
+      "published_at": "2026-11-13T13:30:00Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "72b88df466b83d25",
+      "title": "RWA如何重构应收账款确权与流转：供应链金融实操指南",
+      "summary": "",
+      "source": "CSDN",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uS0x3cHFmeDE0Y2hVcW1Ld2NNbVNxTmlxbTNKejJIOXhxWU1kUDRlZDlZaHBzR2VHVDN5cVh3ZW51OHdPa0pScHpUazM3RENxQTZZelJIdUxZaGgtZ254Zg?oc=5",
+      "published_at": "2026-11-13T12:55:56Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "5226946ee75a3716",
       "title": "上海精品葡萄酒贸易商WINEXSH申请破产清算",
       "summary": "",
@@ -65,6 +120,17 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTVER0pqU1lPQm9iNzFaVlFHenRhbzVxRnRyODRCMVlkNW1wS1lWZkhzM1BPTV9PelVmVFVZN3BnZ2ppNEsxWUVZc0x4cmFSSDlqOVBIaEhfZ2tZWDhuR19kU05LQ0JUS2o0VWcxd1BoOHRRXzB0aFc2cVFnZjY3ZTFJUGFqTHlu?oc=5",
       "published_at": "2026-11-13T12:57:20Z",
       "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "57835e3a51583e12",
+      "title": "宁德时代月内连签两家eVTOL 企业电池厂商加速布局低空领域",
+      "summary": "",
+      "source": "财新",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VUUs2YU1uc2E0YjM1aFI5eHdQWER6NFVTX1drQ1RHd2FSQlB6TDRoS0JGR21WaHQxdTdveDlYR0Yyem9JX3JuUHFhRmxPamkzNVBnTGlCbzZWbndl?oc=5",
+      "published_at": "2026-11-13T11:13:12Z",
+      "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -102,10 +168,21 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "5f32015d08780605",
+      "id": "bffa1d9ca48fedd3",
+      "title": "共筑一流枢纽，链通全球未来！2026年大湾区（广州）航运大会，今日在广州南沙召开",
+      "summary": "",
+      "source": "Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXE5MWtmNk0wek9qSE5COFZITGtMa0FCVDFIN3BtTUhrY2Q2UXI4U0hIM3ctajB1Z2FqcFpTWEdjeFVFTEg2THJLSkk5bDR3MTZFTXF4TXYzWmpqcUVmODQzTnI3Y2xoOE1qVS1pWWNMdTZQMlNUS1M1anBrdmp4ZlQxNFFPUFhq?oc=5",
+      "published_at": "2026-11-13T12:08:35Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "6ffbee39f42d771e",
       "title": "航运50人第十三届年会暨内贸集装箱服务经济发展30年座谈会，在广州南沙召开！为航运大会贡献内贸集装箱发展智慧",
       "summary": "",
-      "source": "手机搜狐网",
+      "source": "Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ0t3UWY3NFBDejZDeE1WRXRpU05tNG9nS0VpM0dub0tUT1hvMjFvSnA1UHRBN21WeFZsZWdnbWVhYXNvVFZzMk9tTzQxQnFPYllDellqYjNnMndKS2NWOGZTcWlOZkRURndHVmptVmtUZ2tXRS1FOFVVTWNlQUctRVUzVXBjU0w0?oc=5",
       "published_at": "2026-11-13T12:08:35Z",
       "category": "物流风险",
@@ -146,6 +223,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "3dabdb878d98625d",
+      "title": "国家级港口遭网络攻击：业务转人工操作 货物装卸延误",
+      "summary": "",
+      "source": "安全内参",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xcy1RNGlnNXhJTGk0TG82ZUdwWDJkRVJsS282NmZobUJNem5wM0Y3Q0lCbFE2X1RXY1ozcko3QXJmYUNtdlVNSWJmblZGdw?oc=5",
+      "published_at": "2026-11-13T10:22:18Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "a3c4b6500fb31288",
       "title": "全球海运城市排名出炉：上海跃居世界第二 | 港口圈",
       "summary": "",
@@ -179,12 +267,12 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "b7ca8e9f61f66846",
+      "id": "a8c15e0272e73ad0",
       "title": "山外山携手瑞士安姆科集团升级医疗器械全球供应链",
       "summary": "",
-      "source": "m.zqrb.cn",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vRDVKQm5pSGhrcXNpd3NUZlYzTnlpTHhoOXQ3SngwbHBMMVFyOXpTNjd5UGtfYXFobTdHOVR0RzVmb09BSThCazQwczBYdDdJeUlNS1FELTBMWHR6RHk2VmRoQUhfZXhKTkdZekxlOA?oc=5",
-      "published_at": "2026-11-13T05:55:00Z",
+      "source": "东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1idmJDNG1LWmlIYTFjY1piU0FTY1FXbEd1UDNwanNCcTRfRThISm1FQ1NmWUFxcG0yVmx5YzNrSXZOWmlUZmpQeTkyd2RJOWlScVJrYTRYMzdtdlJXc1czZEloMXFhUQ?oc=5",
+      "published_at": "2026-11-13T07:11:41Z",
       "category": "综合",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -208,6 +296,17 @@
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNaERnVGROX2tsSVFlbDRNZGRjaUJXUmIwUjgwN05hVXJZUUVOSUNWN0pNSnljZXpmTWd3T3pDN3BYMG5TNzRCY0JSTE43cDJhVXA3UENaLVU4QkZzYWRJNFNTMWtNV0ZuUktERzR3dUk4UEJUdi1kZUJuajNaSHkwSkNmOFlUM281V2dBbUN0RmdKUnpNMGFGZkJWT254VWI5c2VwTU5wNGlqR2tMTjhSWl9OODgxbUFqRFJJemFsdEpIWVZibXpIbUxSaW1uQjRrYWlJa084NjdtYVRWUGQ3d1pKTWNNdlhrVGxyMWRmM3JXbkkwaVpHbEx2VXdaUEJ2d1k4S053alpnb1pOdkhON1VSLXZXSHl2VEdTTzBUdjFqVE40Q1NTc2p0ZjVsYzdRQnlaVkFaYWlfN1ZxcDZVeHpIUXRzdGM?oc=5",
       "published_at": "2026-11-13T03:25:56Z",
       "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "c781296bfc81080c",
+      "title": "受美国制裁影响…全球半导体设备在中国销售额占比“骤降”",
+      "summary": "",
+      "source": "朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHlGNXBCYTJka09WR1QxZlVKbVVyUWFZcElpcFV1LUp2UndfSk5lRkFHank4bjlWTUNMRi00V3NTYVhPQ0hBRGVhWE00N0hNckxoZzZocUxhTXhnT1hpZnFqUHlPS0ZBNnlsZEVJUXJLSE1YN1lUUVpfSGtha2R0SmVSb3pfRDA?oc=5",
+      "published_at": "2026-11-13T04:29:23Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -351,17 +450,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcllKZ2Y5bXVMSHNVTWgtTWZzUmw5WG12OHRLa3BjRE01R1JCRG9WN1hYbjhnRno4eVRQbnd3VUhhMmZ0ZXJobGhNZm5VT2dRcVlRaVY5em81c1VkS3hwNmpqZkYwNlUwRGs3MnlGcm9XS1E5c0pWTGhISWVxN1RoWDdyWjRielU?oc=5",
       "published_at": "2026-11-12T15:43:12Z",
       "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "c781296bfc81080c",
-      "title": "受美国制裁影响…全球半导体设备在中国销售额占比“骤降”",
-      "summary": "",
-      "source": "朝鮮日報中文版",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHlGNXBCYTJka09WR1QxZlVKbVVyUWFZcElpcFV1LUp2UndfSk5lRkFHank4bjlWTUNMRi00V3NTYVhPQ0hBRGVhWE00N0hNckxoZzZocUxhTXhnT1hpZnFqUHlPS0ZBNnlsZEVJUXJLSE1YN1lUUVpfSGtha2R0SmVSb3pfRDA?oc=5",
-      "published_at": "2026-11-12T15:43:10Z",
-      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1890,94 +1978,6 @@
       "source": "搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYi1xOVpoN2ZpMFhjcTdpcFJQckt4MHNIU0tQUE1uNkZlTmhtWW5CYkhHWWoxSzhuMzF6SnNZLUJkVzFHNFRLekc3TzdoeW4xek9Vd2Fpc0NCbWdJbkNNdlE5MjZJNHZ6ZjBCLVpTNE9lYVg2VV9oVjMxSkZCZTFUWnh0S2k4VGJraUpsUA?oc=5",
       "published_at": "2026-11-10T01:10:54Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "20ca6952c76d4283",
-      "title": "韩国掀起超30万吨磷酸铁锂扩产潮",
-      "summary": "",
-      "source": "搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS21HYjNIMmI3a3NETnFwbUxHanIxcXRmbXlPcDBFQVVja2FPY2cwYzFYeWsySnpGRXFCUTZCcS1IdE5lVnB2SGQ3V0JyaVpWeFR0ZFR6RXJkZDBucDlFUXpwTGtwYkxoNjJxQ0R1V29VRHRBRVlIY3dTbjVjeXFWQjItUkNBSXNGTkNubg?oc=5",
-      "published_at": "2026-11-10T02:47:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "91b3cf86788b23a3",
-      "title": "从“中国+1”到“中国+1+中国人”的全球产能网络 |进博会上海会议活动",
-      "summary": "",
-      "source": "上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vc1ZySGpkMUJqRTdTY0s5Mk0tTGtoeF9zZnZfLVNIRlFtd0pROG83OUxiVXZvX0t6MS1YNFJYMHpXS1lpdXhIMGJlaTNfM19yRGxBSnNrRzFJSHFRTEE?oc=5",
-      "published_at": "2026-11-10T03:50:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "8e990fbfb575865d",
-      "title": "宝马与三星SDI、LG新能源达成电池电芯供应合作，将为欧美工厂供货",
-      "summary": "",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zdnJtaUNVN3VZdDk0bDdwaWtUS0VyT2JsNWoxMG9IZDFNOEpsU2otbW0zYnBrdzhHVTBRWk5ZakdaU3JrNXpZNEY5WTFMWHF6RXRNMUtwWHBLbUZTV3VBaWRfZk9QM0lrd0N1UDYzODFicHg5THcxZ1ZGTGp0QQ?oc=5",
-      "published_at": "2026-11-10T03:48:00Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "e5e55734603592ef",
-      "title": "小铝箔“链”出新能源大机遇",
-      "summary": "",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjJjSUtKTHBzTGV6SUtyNDRqN29TMmZDMFBZZmUwelBRXzljQVVJYUhoamJYR0E3aG9reXh6SEN4cVBvRHM4UzhWYUVfWW5mYXlWSXgtU0tPVUVaeDI3Z2I5RFRIRjNzZ19BT1F6d040S3pwb25HNU9tak11Q2JWZGl3?oc=5",
-      "published_at": "2026-11-10T03:39:00Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "7b1e12f9ef9fb29d",
-      "title": "外媒：进博会见证海外企业分享中国新机遇",
-      "summary": "",
-      "source": "搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSngtamhxd1NCUXFPUFl3N20xMU1GV21BM0luRmQ1SVYzT3c4Ym5icUdjMENUNUdfcG8zX2thcW9ZWTVWZlBYWlFpY1ZiUXBNblp3cTR2cDJCSG96VEU3TS1pVkROeldVRlhrNUp5Sm5FTmZDOUl2SmFrS1Z2MGhZOW51dnNld1FJY0phNQ?oc=5",
-      "published_at": "2026-11-10T00:14:01Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "697d1a92076a42bf",
-      "title": "马恩岛政府暂停Manannan号替代渡轮采购等待道格拉斯港疏浚",
-      "summary": "",
-      "source": "维度网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVdzBEVXpsVVJYTEZQRTlVTWlfa3FReS14NEt0R05fOXVlanI4QVBqMnY2VHM1Q3RfRWRGNXQxUE9xNFI0ZmI5SVdNMV9FZWhfS25yaC1STVE?oc=5",
-      "published_at": "2026-11-10T01:53:00Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "cc7bcf055c779351",
-      "title": "进口价值数百亿韩元的镁合金，与自家产品混合后冒充韩国产品出口的企业被揭发。",
-      "summary": "",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFLVhmazRJU3FXRHBKTnpqWUxOTElrckVaREJtUjZOaU0xbGtyYWhhQXFkWkRtbWEybmRjTVhlUE52WWpZTElYRktyeElrM2ozS3c?oc=5",
-      "published_at": "2026-11-10T01:39:28Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "1495cbdecd38ef71",
-      "title": "AI赋能多场景！全球产业链重构下中企探寻“出海”新路径｜聚焦进博会",
-      "summary": "",
-      "source": "搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTZHbFh6aUpfT1hOdzJCMDBEMnczOG50eEpNRVZ3V2VmcVlseW5RdVE3RDFfbGY2emFlaWFlMjMwVnc2SzlMLUVRNzdXOVVKQzVOX1k0TFdWMGRkNFg4QlJKSjJDMVVXeVo4enRhN3V6aXY4djlyV2QzQjVuZU5sQ3U2RnFjWmY4?oc=5",
-      "published_at": "2026-11-10T03:08:00Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
