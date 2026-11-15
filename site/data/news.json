@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T13:09:18Z",
+  "generated_at": "2026-11-15T16:54:41Z",
   "articles": [
     {
       "id": "a9d925bf31c2f0f2",
@@ -21,6 +21,17 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWdkM3dReXZsR1NERlB5TGxRVHJCWE9qZWh3VXE2LVYtZF9KVGswTzVOVDQtM0V1RHFYbldHeWVfMUpzUTJ0S3FNcGlGd2FMNHVQU2VhQ2haSWdnSi1rbHNoVDZGNUpxMjIyT29IbDlVQ25zQVFvTEVscmlsRVRFcTFnbWpvOHlU?oc=5",
       "published_at": "2026-11-15T10:34:00Z",
       "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "ddb823fbf88c4fb4",
+      "title": "[亚太经合组织峰会] 降低关税与稳定油价是机会…半导体监管与LNG供应存在不安",
+      "summary": "",
+      "source": "亚洲日报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mbjk2M3NGWUdCNVFwRWgybHUteGdsUTZWdXo4ZlJGZzdxUnNIZGFoRTZEbDBpckN4aEFjdmd2blpBZjlLUHFRWENOb21nS0RUbG50elZ2N0lRd3c?oc=5",
+      "published_at": "2026-11-15T09:04:20Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -230,6 +241,17 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51SFRGUi0xRE5WSDRQRVB4a18zRTZLa0x5RnV1cnBXRnI0eVFLZmx5cDVCLWJZS1FKa0RKNTYyZ1Z6QTdFb3BacnJTNVdhTVAtZm1IUDhMNDdWdTR3Z2h5czgtdjU?oc=5",
       "published_at": "2026-11-14T08:54:39Z",
       "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "005c0a95be67b7fc",
+      "title": "南方五省区新能源汽车产业链供需两旺！前10月贡献用电增量超三成",
+      "summary": "",
+      "source": "21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3RGcU0wb2twRmN3M2Qtc3ZLOG12WC1BbktNZ1ZHTWtYQTNLQUlnTllSVnZYS1d3bmdmYU9pMTh2SEdyTldpZkZpRVVyc2JqN2M1aWtyczBmajNtdjhsVmRZQ0d1SVRySVdXTTFxX3VYUWJnUGJQRGN4czhXc3dQckVUZU5aUWxaQVpSSS1LVQ?oc=5",
+      "published_at": "2026-11-14T09:06:18Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -542,6 +564,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "2d6b011e001da469",
+      "title": "容百科技亮相2026电池“达沃斯”：富锂锰基双轨布局推进下一代正极材料产业化",
+      "summary": "",
+      "source": "https://www.itdcw.com/",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93Y0ZucGNYaG43Qk80cXczMEg4bXR3bVpMdlN6akp6OEhuazd4MTJCVWFjYkJ3WHNQVzN1TDY0ZHByeGFDbGNndjdISk9XVnc5ZXhQYThNOTBpZ3RNdG1B?oc=5",
+      "published_at": "2026-11-13T14:04:00Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "5226946ee75a3716",
       "title": "上海精品葡萄酒贸易商WINEXSH申请破产清算",
       "summary": "",
@@ -751,6 +784,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "8b10af8f3016f9be",
+      "title": "天瑞德闫拥军：NMP全链再生赋能锂电ESG转型 交付能力可配套800GWh产能",
+      "summary": "",
+      "source": "https://www.itdcw.com/",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OWEJqSXc0TG1JSXlyaDdERFhmTnFUcjRqX0hIQ1VBemw4UnVLSDhPeV9HNFNTQzdpOHp3WXdXemJ0QzFUNTJWM1MzeWozbTRlLXQ4SGwyZV9wRFFVYXhz?oc=5",
+      "published_at": "2026-11-13T02:23:00Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "2c2a55755d5e0a57",
       "title": "产科融协同，赋能制造升级",
       "summary": "",
@@ -802,6 +846,17 @@
       "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQOEFMNDlWNjRFSmJwdzR6UE1oeTFLNVQ4WTRYV0hlVHExNng1UnRYd1FpeWlPN0hBV3MyMDFIVnRBU18wczNYU2l3NU41NllRblhrNWczcnRQSlp4ek9oXzc5UGFYZHplTm43OENZcHVjYXpjTUx3X1MxUGNGbTBIaVczcWVJZVdWQ21ISHk0d29teEVycTVPWmw1bzZsZHEzLTVBVE5Fd2FDTnF0WHR3SjNlZ0dKT0laN0x3akJ0ZUpKb1c5Y2EwaXFPT0hjUDlZcUhsdjMzQ00tbUhOZEp1bmRiWlIybV9UcjBUUURjOFpBRklwQkktZVBLdEdKTmlNTnhTUTVSTDZOTkVGYUJhZVR6YTlFWDdmS2JsS2RKLW45YWpRSmhRM01xYmxjRnNuemxkNi1vem1QM2d3TXVmU25vTWpPWTBzQlZ0cV9kNmczYjJDcm9BZkVFS3Buck9SYTNFU0RqWFZhZHUwdjJUTg?oc=5",
       "published_at": "2026-11-12T23:33:00Z",
       "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "3efeab8416b10557",
+      "title": "欧盟拟推迟对英国产电动汽车征收10% 关税",
+      "summary": "",
+      "source": "盖世汽车",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lb3FDeTdrWTdWbFRObXhmTVRsWW03V1psNVVwOVpSam9yOWFnMy1Wb3lwWVU5WTVrSFVwbFA5bmdwbE1uY0h5eElmaFZkZU5r?oc=5",
+      "published_at": "2026-11-12T19:24:59Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1741,6 +1796,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "502be0b61632529a",
+      "title": "多元发展向绿向智 进博会折射新能源汽车产业新动向",
+      "summary": "",
+      "source": "央广网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91d25waTQ1V3FKVmtyREpkbjc5MWt2MUNqOC0wM2szUExObGZiVFZXTmFnWVFTRmR4NzBuQVVhdVpfUXhxMGsyRWlIWlRTdGxsd1NYUk5rZ29yamNfZnlVbzFEVWQxb0ZrbXpudTU3RkVEOThFWXBTMEd4YkdZVEU?oc=5",
+      "published_at": "2026-11-11T09:01:51Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "8d65ce285e58bce1",
       "title": "豁出去了！缅甸主动向美递出橄榄枝：愿意当美稀土战略的突破口？",
       "summary": "",
@@ -1895,89 +1961,23 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "333b438cd1284a9b",
+      "title": "2027武汉新能源电池及技术展览会揭新能源三电新格局",
+      "summary": "",
+      "source": "手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fek5YYzF6Tllya3pFYURaU2NDcktUejJwMTBhVjZpTFc2RFprMmdNN3Z4R2RiaVRlOEs2MFRkTFRWbWgwRTVCbTNJSllRT3pQbTdSeXlPNXlNa2IwbklvWGFMVDJ1M0pRU2ZNVTdYclNNY3JvUGhkWTJSMVkwSWM?oc=5",
+      "published_at": "2026-11-11T03:39:32Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "8b54786bd5e0671f",
       "title": "比亚迪2026年Q3简评：海外单车盈利大约是国内8倍",
       "summary": "",
       "source": "电子工程专辑EE Times China",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45Q2FZLWdaMm1mSUFyR0ZNU09IMXhNWlNCSkxwd21VRV85dXBkWm5VU21nMHg0V1B2UThXcjhXNHhhc1JjYmFTMi1DZmRPUXB2Uks4?oc=5",
       "published_at": "2026-11-11T01:32:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "32e9abec4cba6f22",
-      "title": "NVIDIA风波与美国中期选举牵动局势 对华芯片出口管制或进一步收紧",
-      "summary": "",
-      "source": "디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWHhKeVU3aWh5UUs3SXVoUUR2d3ZwdDlWdFRwdnVoV2V4MEZuNTluSzFaMFNZVU82MEpxd05WLVpsejRTckVPakZWamtqNl9nRkZiYjkzRzBZNVFNeUxyLS1Qak8yWDdWc0JZR2tJbzk2S1VuUUlTdkVLdlF2Z3RZSHlUNWdJd1Q0cnhkZkhwTjk3NWdlQjk3b3QxRWFzTW1HQkpPenFxLVRwYVAyQ19fbXVTS2J5VXluUG42SDIwU1VuekpUX2VrWjBqZGFVZTFFTC1wNFRKbEVCNDB5YVIyZEY1MXdIdFQyWlNzU2FZNjM?oc=5",
-      "published_at": "2026-11-11T01:30:37Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "b15aec74378d1eef",
-      "title": "深度参与对接采购、产业协同、创新合作，第九届进博会青岛“购物车” 新意满满",
-      "summary": "",
-      "source": "國際日報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QcDcxNzc2NnpSVFVPY2NVcFNGcklrT3NXbHlJNnZsZkJ0TXpGVDdMeGlrS1YtdDJMYV9scXFrTk14VjVzdlFzZ1hqYXZ3MHVCb2NB?oc=5",
-      "published_at": "2026-11-11T01:14:15Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "44737abe76e8df07",
-      "title": "美国共和党众议院党团领袖由强硬派 Jim Jordan 出任……对华半导体管制会否加强？（综合）",
-      "summary": "",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WczFTSnpDTHZZNTJNc3YwYkRodjBTUWVlemlMV2t4VXctVk1GR01Qd2tibUdmd0d5OWM5cVM1aTRwLWFBblFmRG8wbGlreDhvTVJjdDRrTUZuWS1qZnZRRUZqOFQ?oc=5",
-      "published_at": "2026-11-11T02:10:03Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9ce7da4d9b281603",
-      "title": "黄仁勋丑闻持续发酵……美国酝酿收紧对华半导体管制: 中国·国际",
-      "summary": "",
-      "source": "韩民族日报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xWml6bENoU1I3Z2cyb2lfeEd4clU3d3Z0THlpZWthc05MeTVmeWVkM2MwXzlZdXJXN3ZDaVdZblMySFRCTE1mc0xacUhTNFA2X0lFelNjdjBtZF83cmRWY25PRE0?oc=5",
-      "published_at": "2026-11-11T01:20:00Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "3355c7482701e67f",
-      "title": "推动落实跨境贸易便利化专项行动 北京海关护航航空口岸便利通达世界",
-      "summary": "",
-      "source": "北京市人民政府门户网站",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXJtTFNjZnpmTEo2Umt4V2NHWWQ3QnAtT1JSaF9vVmlxakxRQnlzcVpmcFdxb1ZFQ04tSUhwaG92bW9IelVDSmRjUks3SW9Tb3d3UXY0TVFheU1SMVRGdTdfU1dSc0Nhcy1JZmRObmFOc1A1MGs0dG1zMkpXR1lkX0wzODdOT2VjZlVHUzBn?oc=5",
-      "published_at": "2026-11-11T00:34:00Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "e92dc290850f4555",
-      "title": "Shinhan Investment & Securities举行“2027金融市场论坛” 聚焦AI投资逻辑与行业配置",
-      "summary": "",
-      "source": "디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLVJCRlpfU2lPbGJwUWl6OUtyalQ1Y2M4NnV6NVFLWnpfRzlwdVNoNWg1UFdUMWlkcGlMcEo4VWVJRUlMV181by1UcF9fbzBxcUZzQjRucFhCZ0JScW1EajEzZlF3dF9oUDU2Yl9OdFc2Zk9pdmdqNjFiN2NVVnhaVS1mX19TSU9YTG81OVIzUDZ5WG9YZ1NIMDMzaTQ5VUVTeXVJVmk1MExRaEZJUTJJdXRlMFhKNC0zYnRmQ2VCSDR4eVRVOVpISVFGY2ppUW9ydzVOakR5ODFsaTlIVVBscVZ3bnhZaGJKdDA4Vw?oc=5",
-      "published_at": "2026-11-11T00:28:04Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "86ee83d69211e706",
-      "title": "缅甸军政府寻求美国加大对其稀土矿业的投资",
-      "summary": "",
-      "source": "美国之音",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWNDaEVZZGxNS0xzT3ZadEdoZDFVeXJjLXQ1ZWs0NUtIaE4xTVY1NTllTVJkTzRlSlNCOVZ6X2d4TlJHVGUtUWVNY1hDaFc5aEQzbFZ5WEYzQ0ZSREFaOXV1YVp2aXFYUDNwbDFITHNXa1dQN2pmRVhhVE1LMTdPbUxLaGFRWU0wMkszVGtKOU9KU19PUnQtaVByTGVzN0tmVlc4R2pKZV9QSGE3SnpCTzFlTXNGT2k2M1J0OVpXTWhOUdIBxAFBVV95cUxQTEtPOXRtSkVnYllTR2FQSlk1YTZseTV5NHoxUldaekRDaFlYRzY3OGtrbWdhM2N5VWFFamRBS3ZYY3V3aHIzdjJhQnpKTlE4Zld4WExOUFVBZnJCYnh6bkIxNkFucXQ0aWlJSjI2WTY4UTlaNUxrSllJYnRacEFfdzROeXhESHZrRW9VYnh1dHVHS2UyUmZUNGVuYlNpTmZRdWhaclg5VzFJeksyNWdxWFdoWDVpQWdPdVQ4ZWdyRzh6Q1lD?oc=5",
-      "published_at": "2026-11-10T21:44:03Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
