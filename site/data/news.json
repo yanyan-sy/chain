@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T20:52:26Z",
+  "generated_at": "2026-11-15T01:23:35Z",
   "articles": [
     {
       "id": "348e5cf7df297cc5",
@@ -20,6 +20,17 @@
       "source": "证券之星",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSHdmeGVEVWRkVkMtOGo3T1BkLTFBY29WMDBHNThlQ0FlWGN3VTA3ZGhqbHF4eFA1OEhra0lKWTNYeFJDQmhibExKTTA1T3g5Rk0wNDRpNmZvTDdmeUtXMA?oc=5",
       "published_at": "2026-11-14T20:03:29Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "2738fb95cf55818d",
+      "title": "通鼎互联（002491.SZ）新增一起对外投资，被投资公司为星慧纤程（西安）光学有限公司_公司新闻_财经",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DYk40Yy1pbU1McDVZLWR1M3ZQb05RbktFMTlHaTFfcEV5Rkp1Y0hxQnlFcnhDOXBFZkRfbzQ2b2E2Z0dkdXRFSWwyOW1Zc0pIUF9Fanl6NEFUU3dqRHk4bA?oc=5",
+      "published_at": "2026-11-14T20:03:22Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -47,10 +58,10 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "796bcddba2972c42",
+      "id": "39788484b2df33d7",
       "title": "功夫车一起造，看懂宝马新世代的供应链底牌",
       "summary": "",
-      "source": "车家号",
+      "source": "汽车之家",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zaHk5cWtSOWxUbklhLW9ISkM3Mk85amlOV2dyMlp2OEtFcWpiMDNuRWFsOXZLbEttS3h5M1FBUWRJV2lDOE0xSnZGNm5lQmVVcGh0bklLa1BpODA?oc=5",
       "published_at": "2026-11-14T13:05:53Z",
       "category": "科技原料",
@@ -119,6 +130,17 @@
       "source": "网通社",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sUHBpMG56dVpiSzdkTE5kNEhjSjE4SDE1WlZmZy1TMTFQaXFaeGpTeE1PUWllelhlNkhuN1hSQ1JSOHVPakRTMnBYczE2bnFyX1RmM2RYb1RsWlk?oc=5",
       "published_at": "2026-11-14T06:35:10Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "fabbc59bb8bf24c1",
+      "title": "好处实实在在！“中国建造”跑出“中国速度” 补强东南亚新能源产业链",
+      "summary": "",
+      "source": "央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YVV9TenpjOW5qM2NzeXFKU0lmTTJmeHVIdmR5bHVUVlU2ZVd3dHFIQVRGU2lWWDFIYng4TFFnNGZ4ekU4N0NScW1NeHVQQVg4YWhFZ2lLLUNUM2pmT0kwV2hNekl1MGZvWGFUdU9KMTIyaE4xUndZeQ?oc=5",
+      "published_at": "2026-11-14T07:47:08Z",
       "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -311,22 +333,22 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "3e4de8927941df11",
-      "title": "科力股份（920088.BJ）新增一起对外投资，被投资公司为安徽中草新材料有限公司_公司新闻_财经",
+      "id": "f52bcbd5edd41d18",
+      "title": "天鹅股份（603029.SH）新增一起对外投资，被投资公司为山东天鹅智能烘干设备有限公司_公司新闻_财经",
       "summary": "",
       "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lRl9rcjlGMDdCbGUxMlpURzh0YTlaUzgyc056RU9vcTBjbDNFVXFJNXk3R3Z0UmgzUkRXVHFXVHdlVmZNSjJPeXBpTWQydGVqeWJ4XzJ4MDdDQ2JDRE5IQw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02M01VRTM2Ny1lTTl1MTZSbDNEMUlDZ3V0ZVpSQmtHVXQ4VndZWUlaSVRxLVpTYUZVclNBZU9hMzJLaU1rRzNGLXJyT3JmclV1X05LVmVxdUc4SWl2eHV3YQ?oc=5",
       "published_at": "2026-11-13T20:05:06Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
     {
-      "id": "f52bcbd5edd41d18",
-      "title": "天鹅股份（603029.SH）新增一起对外投资，被投资公司为山东天鹅智能烘干设备有限公司_公司新闻_财经",
+      "id": "3e4de8927941df11",
+      "title": "科力股份（920088.BJ）新增一起对外投资，被投资公司为安徽中草新材料有限公司_公司新闻_财经",
       "summary": "",
       "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02M01VRTM2Ny1lTTl1MTZSbDNEMUlDZ3V0ZVpSQmtHVXQ4VndZWUlaSVRxLVpTYUZVclNBZU9hMzJLaU1rRzNGLXJyT3JmclV1X05LVmVxdUc4SWl2eHV3YQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lRl9rcjlGMDdCbGUxMlpURzh0YTlaUzgyc056RU9vcTBjbDNFVXFJNXk3R3Z0UmgzUkRXVHFXVHdlVmZNSjJPeXBpTWQydGVqeWJ4XzJ4MDdDQ2JDRE5IQw?oc=5",
       "published_at": "2026-11-13T20:05:06Z",
       "category": "产能布局",
       "language": "中文",
@@ -571,6 +593,17 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qRWdZTTBoZkotZ1gtdDVJd3Q0S3QtSU9lV3NUc3plOWNQOGdvRGkxSnJvb0p4Umk1QVpZQk0yUDNrWklpT3R2UU80d0VORTN1N012Wg?oc=5",
       "published_at": "2026-11-13T06:19:40Z",
       "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "378f2d52e40363bf",
+      "title": "全国产供应链、内置热失控判定算法，纳芯微推出车规级压力传感器芯片NSPAD3N",
+      "summary": "",
+      "source": "电子工程专辑EE Times China",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tWnpscUo0M3pfT180MlJaN3piSklKdHh0VDhRQmNXWFNnSGtRRmJhdm14amU2TDRNODJ1SmxUbzBxZjBhdmdvdWszVG5ydmI5aVEw?oc=5",
+      "published_at": "2026-11-13T05:59:56Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1945,39 +1978,6 @@
       "source": "手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmRONndlTXdhNVdfbnphM0cwTnlaZGxGUzFQcnZkcHFEWVh6bFF5dDJ3a3pYeHUzSHhHZURyMU5MZ0NOODBoLUFGTnVzU09jWkExZlVUTEhCdGlOZ0pRcmNheDZxQmljYXhDV18zd21BeXVNeThidmU4eDd2QlZhbldn?oc=5",
       "published_at": "2026-11-10T16:25:49Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9dc41c7f3488fad4",
-      "title": "印度酒企寻求明确印英贸易协定下散装苏格兰威士忌的关税待遇",
-      "summary": "",
-      "source": "Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdzBCZWZRVXk2eUFJZm14VzJCN1BneXM1ZXJKNlpGMXpBaXFIMUdCY3A4dXB2cldkSV85V083ai1OdTlZWmIyZjVxZmpLNlhLaFdQcEllc0QyMXpGUFNfVzFOcjN2NHlOTUc1eVl3ZlZ3aTdmX1lsT0pEazhfZGZmZm00M0FKcmplY1lLNXRiWXAwT0ctSGlrTjJRTE5leFhHQkg4ZGRHY1lUWVNGZlc0c0RDSHF5Z3BNa0ZTdlZxbTnSAcYBQVVfeXFMT0djazdaMmJFLV82V3cyN09LVXpuMjQzbUdJUmY0S1dTQlVvcjBEN1V1emRNeG8zVmotME50eVRCRnlDbmxGUzdwN2ZFSWdyNGRFRVFNU2dCMUd1TkU2WVBONEZieVdOMFJmcWdDNTZxTVh6aUZlX2tmWFhXSjBUdnlmR3FWODZiTm53REExSnlfYnVwVTFNYmpqZTVlWHRjejV0UFNWb0Rfa3NQX1ZkOTBLY2ozT1hudmp2NFVyN1BXUGhSU2NR?oc=5",
-      "published_at": "2026-11-10T13:45:14Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "52a68b87e6ce977e",
-      "title": "全球第一大货运企业：年收入1.2万亿元，顺丰、京东物流跻身前十",
-      "summary": "",
-      "source": "Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUR0UnlmYkhNWERZdmtNdFhWTFlWNzE0MWtIY3Q5LXlyZUhSN0JydWdWcW9yQmRYUHItSEV0LXlMUG5HVmowVUZfMmhya0VsT0lCaGxBaXQ1TjBFb3hBU29HS0laUERzZHhTVFFuMTg2bzRCeWVXdHFNNnFzX0hodjdtSkhGY1JsR2hGNA?oc=5",
-      "published_at": "2026-11-10T11:50:16Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "63550fa7f3347762",
-      "title": "中瑞股份(301587.SZ)：暂未在欧洲或北美地区设立海外组装制造基地",
-      "summary": "",
-      "source": "金融界",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1LTlvSDA4UzRRV05sUFAyMDhidGQxanU3NENaTE1nMnNyNUVad29XZ2JXMWtQd2ctSzMtejNrR2FLUy11Z2dpXzJuUXI0WWxnTmRjOU1lNXoxN1NxY182d2N0STFXbEM0TTZGVXp2amNjWG4x?oc=5",
-      "published_at": "2026-11-10T13:29:10Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
