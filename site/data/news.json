@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T15:21:25Z",
+  "generated_at": "2026-11-16T17:26:29Z",
   "articles": [
     {
       "id": "3f0b3e21f5dbfa8b",
@@ -10,6 +10,28 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxU0tqQ190S19YRklSWHVScVhhdzRxLWprLXNrU1EyRi1pZDZwc2U1XzZYd2VIR3A1S1U0bDFSaDJQMVNfMHZwaHZXbm16OE5hRFRBMEtfcXJlZw?oc=5",
       "published_at": "2026-11-16T13:10:00Z",
       "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "66d8c94d50334169",
+      "title": "通信行业跟踪报告：高速光模块供应链引关注，Microsoft联合头部厂商表达关切_行业研究_研报",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SRFh4WDZhUW5FSm4tYXF0VFhoOWhscVJHM1RmMXIxZDJzQWJILWdWVkpyZlJCblpPMy1BQldwRnVVc0IyZEc0ZEhyUXNNT3lFMm9pUGtDOGM0b1FnQ2M1bTZB?oc=5",
+      "published_at": "2026-11-16T12:52:00Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "a1f7c2e728135fc2",
+      "title": "法国盯上马来西亚稀土，“但还是绕不开中国”",
+      "summary": "",
+      "source": "观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WWjVHQXJGRWhtTmFhR0lxM3lZZU5kSG16WGtVRkgweEdDWEVVa2l0YkZXbG85NWN5dmRiejhaVEhBUURyWVI2SndLNGNSLTloZlBib1JxQzBJMjJrekVhR3dvN0JJTXNCV3U1YzF6cW5JYms?oc=5",
+      "published_at": "2026-11-16T13:33:00Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -84,7 +106,7 @@
       "title": "宁王电池换自研，三星全景屏断供，理想MEGA的交付大考",
       "summary": "",
       "source": "汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50ajRWVXhyWTdnMGN4bHdZRGVMSnRXQmotSXVSNnR4WHpOWGJ4T2NVREtIOVE1M2lMZ3o2M1I5TVlVb1BwY20tVFhmcVhuTS03UkhFN0ZFV3RTVm1rc3dtY1dWSjJWajRBRnRv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tcWMwU3FFMDhxMzFCdFhldVBBNUctYjBfenh3enlCcXVKM2tTU2VmMVNGd20tLXdFVDRSaWZIQmpCV2pJeGJJZFBDd19kanFvRGkxVV9fNnVfZzg?oc=5",
       "published_at": "2026-11-16T10:42:29Z",
       "category": "科技原料",
       "language": "中文",
@@ -98,6 +120,17 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzczLV8wS1ZoRDFHeFNtR0l6TC1LUWh2S3J6YnZBQTZsMGM5UmpqOHV6MG03eWM3azA5ZDEtQ3pidHlUODZBdDdOYjhXN3Jubi1YLTVGMUpjV2U0VFNVUWdaWXd1TEpMRXJwYVZSVmZPb0lVX3dVbUhXRktUTjZkbk16QndqNDIzRmZhTw?oc=5",
       "published_at": "2026-11-16T08:51:55Z",
       "category": "综合",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "277eaa118ad92f22",
+      "title": "有报道称，美国商务部长霍华德·卢特尼克（图）创立的一家投资公司，与一家将绕过美国半导体出口管制、向中国提供人工智能（AI）半导体技术的东南亚数据中心运营商有关联。在卢特尼克部长因“黄仁勋丑闻”陷入困境..",
+      "summary": "",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zZkVPMnp5bmYtY1JCamEwa1o2LTR5X2RFajVlclR0Snp5VFl0c3I1cmRVR2Y5ZTh3TkZsLWhZTnJkdk1aWU12S3pVZk5jUDg?oc=5",
+      "published_at": "2026-11-16T08:42:00Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -186,6 +219,17 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJU1B4MnhRalZMZkVOUjFPem1RblM1ZC1rTDJ2MnBFdjhCMDRTcEh6cjMzYUNKUzlpcnJISFoxRk9Ub1VBVDItQ3laNW5SMVhuOWtUT0dOTXZCRURLUzhWbHlnamJscU5PWXJPUXhDREM3Zw?oc=5",
       "published_at": "2026-11-16T08:23:23Z",
       "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "070b943db6c35322",
+      "title": "贸易战·印度餐（六） - 橡溪发表于 时事述评 - 论坛 test1",
+      "summary": "",
+      "source": "文学城",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ec0ttTEVBYU1JMjRnYWExcHJPNUlhS245MmROUTV0SkFTeHFxREl5WkJMUVZKdnBDSUxZMlN1NERQM1o1My1SeFRNeThBZnktUG9sSXc5RlpRRXktdWItemI5ckYwTm8?oc=5",
+      "published_at": "2026-11-16T08:11:06Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1934,50 +1978,6 @@
       "source": "证券之星",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5saDQxeEhqM3RRcXJKZ1RMc2x6QW5kTkE2N0ZjcGRGWTdQQ3ItS1ZpSnl5R21TVXA3WTB3a2ppd0RBeWlSbjV6M1AyNnlLZTRkYXBkMWV5eXlDVzdPNGdpSw?oc=5",
       "published_at": "2026-11-11T20:01:50Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "55041735e85100e1",
-      "title": "骏创科技（920533.BJ）新增一起对外投资，被投资公司为苏州皓鲲机器人有限公司_公司新闻",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNNktOX1MtVmVjeTdoV1c1QW42VGVSemI0cVFKbnA5QUo4bS1mMmJ3ZkQ5OGMwb1NrZzBLNUFjX1cxazVBaW5BbFB6enVsT0VYcGR2a2oxbUFVSlVPVl9rV3htTTQ?oc=5",
-      "published_at": "2026-11-11T20:01:42Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "a93697f0085b81cc",
-      "title": "骏创科技（920533.BJ）新增一起对外投资，被投资公司为苏州皓鲲机器人有限公司_公司新闻_财经",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FMWh4U3dLWTVHbEtvSTlORTlsRWFnMG9EaUxJcWtnZDhRa0hHTFdEUlh5Y3UzT1RzT0h6QnFxRUdLWTl4Y3AwdGRYSXVjdjBHU3hvRF9LY09rWk91RExlNQ?oc=5",
-      "published_at": "2026-11-11T20:01:42Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "ad7a807e421d834c",
-      "title": "ST迪威迅（300167.SZ）新增一起对外投资，被投资公司为深圳市迪威视讯技术有限公司福田分公司",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxRTBiRGtOR2dHWGZmTWlUbW1NVDA0bzVYMmg0dXRENjJPWW5GZ0xramRYWGh6dWdUR3BmNE9fR0lMMVljWEM3VXRBU01aZ203UTltREhlVTVVNEw2Y2xWQkgzR2Q?oc=5",
-      "published_at": "2026-11-11T20:01:37Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "0c675b7da9a45b30",
-      "title": "金固股份（002488.SZ）新增一起对外投资，被投资公司为杭州金启富元机器人有限公司_公司新闻_财经",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OS0RQM0hTbnpGZWFCNGktMURVX3ZXcXAta0w3MkoySTF2am5TdDVMZ3pWLWNnTVpwNlBmcE40V2h6OXNLX1k1Qll0aEU2X29GUVpIcGxsaWtxSndaOW05Wg?oc=5",
-      "published_at": "2026-11-11T20:01:22Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
