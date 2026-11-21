@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T21:02:13Z",
+  "generated_at": "2026-11-21T01:29:08Z",
   "articles": [
     {
       "id": "90b3add1f854cc0b",
@@ -69,6 +69,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "b36edecb58f11e2f",
+      "title": "美国政府加强了对中国企业通过海外晶圆代工厂委托生产先进半导体的出口管制，全球半导体供应链因此受到冲击。三星电子和台积电已暂停向中国客户交付部分半导体；中国人工智能（AI）企业月之暗面则取消了一份价值1..",
+      "summary": "",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UajRfYk1rTnhqY2pITzZsNktac2dWMU13dHZxRXZVa1BFVDRleEp6UFZPVzVPWVN2T0FQenhCaFFNYm5WZEhQZndWcThMLTA?oc=5",
+      "published_at": "2026-11-20T08:31:45Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "58e52dc6152264bc",
       "title": "随着美国政府加强对中国企业通过海外代工厂委托生产尖端半导体的出口管制,全球半导体供应链正在掀起波澜。 三星电子和TSMC中断了对中国客户公司的部分半导体出货,中国人工智能(AI)企业Moonshot",
       "summary": "",
@@ -119,6 +130,17 @@
       "source": "IndexBox",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDFXZnUtUE9TWlNUVjkydmJfc1dIcWJBNDB0eV8wcjRTNVRJQ0NZRk5PV0IxRHdUMHNsRHMzSXBxSklVdjRVN2VlVlUtRnFWRG9ZS3hoOU95MkYzeG4zSHk3UzRUWkpzd2d6LTIyMm5XNFd6NFJYS2M4aVVFa0NzSjI4ZER6MzRXd0RocmNjZG13MUNv?oc=5",
       "published_at": "2026-11-20T13:42:21Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "34ea7fe46ec4e05a",
+      "title": "阿里国际站CoCreate伦敦峰会举办 欧洲订单买家三年均增长70%",
+      "summary": "",
+      "source": "广州日报新花城",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUZZbnlKc1NzWFZCWXFNeXRRQ1plb05KVlIxSEZMVTdoMVBTS3JmaEkzcnBsMXl1S0tIbm83Y2RaSS1zV2R1UllQMzFhajU2d3Z5T3o3NUVWQUlRY0k4S2hNcEIzM0I5b2dvZGJncENUV2ZwY0dfaW1hZ082TTVaOFFYNlM5M0RIRWc?oc=5",
+      "published_at": "2026-11-20T13:15:34Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -175,6 +197,17 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tR0lIdGZ6QWFlang4RXZzSnlEOEFnd1g0V3B4aTU1NmtQSS1SaUxnR2lJcmFQdUNjODlrakNJUHJ6aVlWODl2WkRvNkJhbHc?oc=5",
       "published_at": "2026-11-20T08:36:13Z",
       "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "18ddbfa9858d43f1",
+      "title": "晓莺说 | 星宇事件，一场劳动争议为何会演变成全球供应链风险？",
+      "summary": "",
+      "source": "车家号",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WOTV1UW9McjlOekVab2dTNFU5VDJTakY2emhCVnIwbnZhekh0R3gwY0h5OWNJMnFFbFNWV2lqTmQxN3VwNHA3Nl85a0ZxRE04N3pKOUxRUVZiNFk?oc=5",
+      "published_at": "2026-11-20T10:00:49Z",
+      "category": "综合",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -285,6 +318,17 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcjhxbDk5Mm5La0pHMkQ2emxiUUh5T0JaTXNaajZNNERQQnE1ejJBNTd1UlJBQVpXODdYdVRQWUNwMTR2eTFKalZTUHFNdF9hS01BM3dLV3Vka00zdlkzX2RCeFBUbFhwSXNRWmxIYUc1d05MSks2Ti1iV0c5b0hfcEhkTU5IY01MUElB?oc=5",
       "published_at": "2026-11-20T08:34:54Z",
       "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "bc1b20857cbb1af7",
+      "title": "继英伟达(NVIDIA)之后……超威半导体公司(AMD)也面临‘中国风险’",
+      "summary": "",
+      "source": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqRGE5Q1ZnNXRwRzZVejd0M2Z6T0JjOEIzdkt1bzZZMEZyQU41eHhsMGlvTUhYaUxDY3hfbENtYmppRzJwU09mdXRzSEpNcjhSTk13?oc=5",
+      "published_at": "2026-11-20T08:31:46Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -443,6 +487,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "416b66c63f802d5a",
+      "title": "理想×宁德时代：11年同行，供应链版《后会友期》",
+      "summary": "",
+      "source": "Mdgloble",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53dEVrTlUxbW9MVnNwdThVVk11SDF3LTNWRW4wc1ZnX2JiclNkQjZ2VUJBX09heTlNNWQzODEyR3d2YzBOQXdxUEZOSFh0cU12?oc=5",
+      "published_at": "2026-11-20T01:38:00Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "68f773d448d302a1",
       "title": "中国制造业海外走出一条新路：不在中国制造，但由中企制造",
       "summary": "",
@@ -538,6 +593,17 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sUWd4Nm5lay1kamF4dDNQLWFjNXdJZmVzcW9makh5Q1NJYnhJcHNjb0lXMUxNN3U0b3Jyc1JIdmdraU5NT1lta2lIanBsdHI3dVFCZEFQc1FTRzZ5eEUxU3FTWEU?oc=5",
       "published_at": "2026-11-20T00:17:27Z",
       "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "2c37fd0a8e29b77c",
+      "title": "美国进一步限制中国半导体，三星和台积电16纳米禁令",
+      "summary": "",
+      "source": "亚洲日报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01dzd4WDJzV1daMGk3Y2JpMElFZDRQZWd2alpoRUxvLUs3VzBINFVfNU5heTY1WEgwSWFjOWNQamFtMUlrSURwcnpwQ2Z5MUZxWUdvZnpNcmgyNWM?oc=5",
+      "published_at": "2026-11-20T01:56:00Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -702,6 +768,17 @@
       "source": "Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUXR5Uk5tb2JxNDR2TF9qc09WZTdJUjdkUUZsQXpNNmNVSTJCeTNEUEdYWWZ2dGhFbGZSVzhHd2JsbHRDbkdydHBKNG1aV0JSLWVDTEx1X1pnWEtJMG4yNGl4U2V3Vm1LRHNHS2t4TmNUNkdIS0NEQm9zR0dLRmFPSXNDWENPa2l3YXJn?oc=5",
       "published_at": "2026-11-19T14:13:47Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "406d62bea0fedda2",
+      "title": "中国企业出海直面“六道坎” 跨境服务在补“短板”_国内经济",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kWFdlaDZ2WlhiNU5VSWdQU3RVVWdlbUxpWWZ5VVhDVlBkOXVRU0ZncUdVMEFSUTRVbE1leEFGUnlTalNmTzVQY25yOWNyNDVrbU5iM3hvN2ZJUVBrZDUtQndhLTI?oc=5",
+      "published_at": "2026-11-19T13:31:00Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
@@ -1902,83 +1979,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OUk1uQmp5WXlBSXREUklXLUVWWnNrb3hjSTdFT1daM3JoV0JrSmE5YzFFWXVNaU16Z2dacS1yNWpvczRsbF9kMENRc3pTaG11V2c4ZFRrRDZSRzRUTXlyRnU0dw?oc=5",
       "published_at": "2026-11-18T04:30:16Z",
       "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9adb9a007bffb602",
-      "title": "习近平在APEC强调自由贸易：“应维护全球供应链稳定”",
-      "summary": "",
-      "source": "아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZbVdOVkJRQlc0a1o4eU9NMl9qUnNVNkptX1VDSjVzVmw3Zm5USm9YLUsweHNxYjk3eUQ5YVJYTHpYcXEzY3FCeEp6YksyRlBJMVBndms1RDVoOXR6Q3NNa2RmS0c?oc=5",
-      "published_at": "2026-11-18T04:25:41Z",
-      "category": "综合",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "abd62dc048e3ed40",
-      "title": "2026年汽车供应商趋势报告：德国汽车供应商正在输掉全球供应链竞赛",
-      "summary": "",
-      "source": "电子工程专辑EE Times China",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PU1JmZmIwamhKSVdnVmx3Tm1vWlNqQi1DWkE5NmdBajk5Q3BlUmNEcWxhUnUzTVdENUxENm5QbXp4ZVdwVHhLemo0cUNCcWNtNTNr?oc=5",
-      "published_at": "2026-11-18T02:44:00Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "7a2ad15fdb5a848f",
-      "title": "新加坡可协助美方核查AI芯片使用情况，不会允许规避出口管制：Wong总理",
-      "summary": "",
-      "source": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDY1OVllT3QxRjA0SHFwS0pPMUFmY2NHSnc5M2psN0RGYl9QcjZXY2JsQlBQc1NOUDdMdnBFbThybkJXaWtEc0xySEZ1a3RRdTQwMFg4Z0VlbDVKaEhaT0dHVEVEUmNRXzltODFUWl9BRzU1NG5tX05PcG11b1o1QTdxSWx0X1ZLaElCZXpvUW1ubnJRZ2hhc1ZvN1VCQS1UdXFUSEJJejVNRmRoMHhHWXoyNGh2YmlhZHYwc2I4WVFuZ0lIMlBpSHRXeUJKMWJmU0w5VUR3?oc=5",
-      "published_at": "2026-11-18T04:20:00Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "f5c387264088c933",
-      "title": "2027年阿塞拜疆新能源电动车及充电桩展EVCA 2027",
-      "summary": "",
-      "source": "手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FakdFYkxmX3IwZXhPZlYxLVc2eUowbkotdnExaFR3MzBwenpVNGlOU2hyU081aEduSHdVZzQyLW0tSmpjVHg0WC16VXZtUHI3WnQ0UHZwbDFya05MME5hRFk2c3Q4SnhjcEtwTTZpQ0NJZw?oc=5",
-      "published_at": "2026-11-18T05:42:37Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "bbcb87e5f4e1f9a0",
-      "title": "厦门国际银行新一代核心项目群上线风险评估专项实施供应商征集公告",
-      "summary": "",
-      "source": "移动支付网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94MGxLbVJlZWxhdjJQczlXQ0tybHZ6OFU3dnFKcEpTX3ZmUE5kZHdoVGs0TmVBWEJkT3VnMlZnLU1YelpiYjR1bTdLQk1PYURmZDVIc192ekJaUGp4VjRWRHA5QQ?oc=5",
-      "published_at": "2026-11-18T03:33:29Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "3df2cd35ff2a7f5c",
-      "title": "英伟达暂定CEO表示停止向中国出口尖端半导体",
-      "summary": "",
-      "source": "日经中文网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2FZUy1kMGxlcnFaUnNOR0hmb3VXSWRCeTJjT0xBRnYyZ1MtVVYzcHVRX2gxa1piU1hMblZxZm5TR1hTVHJDS3E4Q1M1SF9rMDF4TUx1TWdFTU1tY2ZqRUhIaUVndElXaFlPT0FYYURCVDBQLXplWFNNN2xBWEZ3aDNZZmZrem5tMnc?oc=5",
-      "published_at": "2026-11-18T05:09:44Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "faa30aa2eda943bf",
-      "title": "“用智能科技更好服务消费者！”雷军谈全球供应链合作离不开相互信任",
-      "summary": "",
-      "source": "川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wZ2VndUNvQlI4b0pRMC1LNDFUbkppT3JuVXFvdmVWQlRNdDlYQy1zekhudkswZGVlU1BTMGE0ZXloT3h3UE8tVmxQb09KZw?oc=5",
-      "published_at": "2026-11-18T03:14:00Z",
-      "category": "综合",
       "language": "中文",
       "origin": "RSS自动聚合"
     }
