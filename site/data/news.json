@@ -1,7 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T16:58:51Z",
+  "generated_at": "2026-11-22T20:56:53Z",
   "articles": [
+    {
+      "id": "4c81596bde1db5b4",
+      "title": "美国半导体出口管制一团糟…\"腾讯等'支援中军企业'获批87万块\"",
+      "summary": "",
+      "source": "朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkVEQ0lJeGJROWp1eUJwaU1WcVRhTUt3QmhyZmNQbVFwamRIcnduR0pNcHdYQUFDZmIyMFpZY2dJMzNDdWl3a0xqMlZMUktZNi1ONXUxdkhoeGdDZXJLbHo5YWU5cWIyN3dMMDhGM0ZvRk1UQlZqeHB3OVUxMXBfSHotbmRtN3F3SDBiLWlGeGUwdw?oc=5",
+      "published_at": "2026-11-22T18:42:22Z",
+      "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "ee70c9dd1b72d69d",
       "title": "“联盟走基层”企业境外投资政策宣讲（金华专场）暨智能装备“一带一路”合作对接活动",
@@ -113,17 +124,6 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "4c81596bde1db5b4",
-      "title": "美国半导体出口管制一团糟…\"腾讯等'支援中军企业'获批87万块\"",
-      "summary": "",
-      "source": "朝鮮日報中文版",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzRCWTdmTTRYQzdIeWxfNzh1a3NqdlMzSmN2SUpHWklrSDJzbWM0Tzh5em4yZjZGTTgtbEluOVJKYXZKcjkwcmpuNVlnQXFiRkI3MXZNOVAxWVdmUFZzYWhWMERWTzJ3SGdqY1dvdkpQMDRpQ1VWbmZZZ2QzdjE5SWJUYVBRcXdoY0E?oc=5",
-      "published_at": "2026-11-21T21:51:48Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
       "id": "26990b9c0ebbaf07",
       "title": "百奥赛图（688796.SH）新增一起对外投资，被投资公司为上海坤灵智行科技有限公司_公司新闻",
       "summary": "",
@@ -219,6 +219,17 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wSFBxUF9oYTlBX2pyQTBrVHdSSlZvWER1dVBONWR0WHRWdDNGelB2Nmw5a0ZqOFhiTTA5dnJxWXZRUjBTajBJVFRtS3ktUlNJY0IzMDF2N3owMmM1ZGFyZ1JCWm9McXNoZXk0?oc=5",
       "published_at": "2026-11-21T10:14:26Z",
       "category": "综合",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "dc373072eeb13418",
+      "title": "从零关税红利到产业对接 中南合作走深走实",
+      "summary": "",
+      "source": "旅日侨网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm1VYnAyNW9xNFJidnAxZHFzNS16YnUtVVZZc3JZUV9USW5Gb21Sc3ZNckd4SDRzSlFBZkhiTjdEXy1XVVZpVVd0V1l1ZmxmcGFyMnNPRW9xekFXNjVvVHN3UEM4MGdqdUE2NklwNTB2Tzg0V1lUWUwyQTlweUF4aEZTbHU1RnFaZVE?oc=5",
+      "published_at": "2026-11-21T08:24:39Z",
+      "category": "贸易政策",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1968,17 +1979,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HbW40LVI1UkVIbHM0X2p2aVJzdWxKblB2S2dJVnZZMEJTaWJ6eE5YWHlBRGlubVJuaDl3NWpZeFBQYU1YYjh6dDQzWlg?oc=5",
       "published_at": "2026-11-18T23:50:04Z",
       "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "c0e72023a3bdc61b",
-      "title": "法国签下马来西亚稀土大单！真正的坎，却在后头",
-      "summary": "",
-      "source": "ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0QU9FUDJoVE5uU1NRNDNjc2pRSGl4NWY0aElvQ2pfWjVmTHVvd2tpYUREekZKc2dRRHJCOTUwUldaQnpUZ0RURGJibjdhYnZoZ25FTlEtcGNlVUJCOXBJRw?oc=5",
-      "published_at": "2026-11-19T01:15:09Z",
-      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     }
