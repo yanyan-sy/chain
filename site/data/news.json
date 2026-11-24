@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T17:14:40Z",
+  "generated_at": "2026-11-24T21:07:49Z",
   "articles": [
+    {
+      "id": "84a324916e8d75f0",
+      "title": "友升股份（603418.SH）新增一起对外投资，被投资公司为友升力知茂（江苏）汽车科技有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LR05qZEgzeDQ2VFhqZHV1TzFqdzctMFZVeEVSaUNMNDJTV3Nvb19Ic3RPZ1dBYkZ1eEoyVTQwWWtUWDdFazlxVXRCRDZKSWR4eGhvSFB1T09Jck4tMHp2VncxaWE?oc=5",
+      "published_at": "2026-11-24T20:01:22Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "a580f63cc0be5b98",
+      "title": "捷佳伟创（300724.SZ）新增一起对外投资，被投资公司为天合光能（淮安）光电有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4ySm5jdlR3d0dRcFJmLXBZWGV0U0RvS1pRTkNNeGJsYl90c05IXzRkQUFCOHlXd0ltclZwMmFZRkZNM20tSXR2VTBkN2R3MEMwVkU4a2hwdzRDWldTQkotLWhmNG0?oc=5",
+      "published_at": "2026-11-24T20:01:03Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "d85a08ab481620eb",
+      "title": "赣锋锂业（002460.SZ）新增一起对外投资，被投资公司为江西赣锋新材料有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBveFV0aFh4MFRLakE1ODNyRFZmMUJSTUZqODQ0NndCanZrblYxaTZ6LUNIWWFyUGRmU3RKbmpibXBpNWJueGNkcHNnWmRGUzJZcHVCTlczUXNTelliM1lzS2pCSXY?oc=5",
+      "published_at": "2026-11-24T20:00:58Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "feed9d33f29ff058",
+      "title": "回盛生物（300871.SZ）新增一起对外投资，被投资公司为霍尔果斯回盛生物医药有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HaklwSkVqWTFtS3pEZERYTENIMlF3SE9LYk5IUzVJeWdPOXQ1UXloeWxvOFJ0R01sZUFaNkV5MU1TVXktX1RFWjF5Qmo4UXVvSTVYbkZLQkxXd0JfVmwwQmR2WDk?oc=5",
+      "published_at": "2026-11-24T20:00:58Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "5db6ef594bafdd40",
+      "title": "长青科技（001324.SZ）新增一起对外投资，被投资公司为常州长青半导体材料有限公司_公司新闻",
+      "summary": "",
+      "source": "证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iUmY5UzZ0cjNkQTU1dkVuNzhuWXR5UlM3c1JOX0V5blRibUZ3eUx6cE1pbHNaNUlLN3lhV3dQeHROQkdJMHhXMGFlZ08wSjEwZHNfUEIzYTVlNFNodENYRy1MZG8?oc=5",
+      "published_at": "2026-11-24T20:00:57Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "59a967c4c1cfc03a",
+      "title": "AI智能体自主攻击RubyGems：供应链安全防线如何重构？",
+      "summary": "",
+      "source": "CSDN",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hb2VHWW16TnctWDNmbW1rTHR6MURzTGFHejhGTVp0NUxPVURJckFMZE42NGR2UUtOYUppcWZYSnZObFctWFJsTFRVLUF3NnhSREtja2VLX0NZWW5nSjVN?oc=5",
+      "published_at": "2026-11-24T16:21:19Z",
+      "category": "科技原料",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
     {
       "id": "fabb49edd4868ff8",
       "title": "重磅！美国酝酿对数十国加征关税 最快本周公布",
@@ -10,6 +76,17 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Bb0V5UENGTWsyVVd1N2Z2M0gtTzRXdEpqb2VVeGkxVW52TXFzbUM3cmxMZndQN0pDQ0dWUDZmcTc3emJ2R2NCQkcyeU1rak5vT19pTU9za1YtS2RmeEt0Z2lId3dVS1hWa3pwcw?oc=5",
       "published_at": "2026-11-24T16:15:38Z",
       "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "f8ccb45b63772d57",
+      "title": "美日“构建关键矿产供应链”…韩国进退两难",
+      "summary": "",
+      "source": "朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcm80VUl3YVlHcHBhaWtncE1BemJrckp5bVlBTWh1YWtXNE5yeDh4dGdBM2xWbVpzVmRoUzJJaDRiWHpvTlVqZ2NPV3VmeERwZXZ1Y1ZyOGY5dlI1dVRhMHFKbzdSNHFubWFFLVR2WXNob2k4MmZsbzlSVW5Bc3A2UUpHTDU0RFNIbm81MG53?oc=5",
+      "published_at": "2026-11-24T16:08:45Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -76,6 +153,17 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUowcy05ZGNveXlBV0Zxdi05aUdxV09uT3BLeDM3eVl4R2trRk5rdW5pbjNKcC1ZalpHeXdyamlraXZhU1g2SXIzNllpSEhvZEZCMzRIRnZvQkVVdnU1UU4tUThYM3dVWWZicVJDWjJFTWpSVE0wZWJUUFcwTC1OVkJrT2RpZWc?oc=5",
       "published_at": "2026-11-24T11:15:15Z",
       "category": "贸易政策",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "39ab4ef150df2e55",
+      "title": "法国将建立稀土及关键金属战略储备 约20种原材料纳入计划",
+      "summary": "",
+      "source": "财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MNGtUbHlaTkh5X3VxdTVaclNzb09yNDl1RDEwQnlBLTZxSHFWY3NhaTc4a1dsMDgyWkRWSkRrcEQ5WkFuUlNpTg?oc=5",
+      "published_at": "2026-11-24T13:29:00Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -201,6 +289,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "fc4ea1b081246e68",
+      "title": "上海机场招标结果：特勤大队党建示范点装修配套设备采购项目-特勤大队党建示范点装修配套设备采购项目成交结果公告",
+      "summary": "",
+      "source": "Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DczdLV1N5c2RTUWswRW9wZWY0VHVLdWVKZ1FDRTJ6bUM2OTZxSDlLZ3F5QTlZSG9sdGdDdEdtcGwzTm9aSncxd2tENUYzMWVQWWFRZC1B?oc=5",
+      "published_at": "2026-11-24T05:56:23Z",
+      "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "818ffb7f33d4022f",
       "title": "从运煤通道到物流枢纽——来自山西的调查",
       "summary": "",
@@ -274,6 +373,17 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3cHRVSE5zRW12ck5mWU9sQTFVSDNSQWZsQnpzdkh3dm1KS1FqU2c5MmV3QWRXYmpiaVV5NmxtSFZKNE0yMzg5c1BiRTJtQlAzM2tFQlpXeDJKNVU?oc=5",
       "published_at": "2026-11-24T02:17:00Z",
       "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "8a20feeddc45a78e",
+      "title": "驭势科技盘中涨超6%，智驾方案量产交付并拓展物流场景",
+      "summary": "",
+      "source": "www.caiwennews.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wMGN6LVZlbnE2b2FjSXZFVHI4WEx4aXItMVlXRGNwLXFiNUl1RWFkTUEzTW04WHVDeThKRmFmb2JoLVFPbzZBUjg3LVVtUWZGNVQ4RHdpLXdCWUJV?oc=5",
+      "published_at": "2026-11-24T01:56:43Z",
+      "category": "物流风险",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1015,6 +1125,17 @@
       "origin": "RSS自动聚合"
     },
     {
+      "id": "059d2f590ba0d16e",
+      "title": "驭势科技盘中涨超10%，智驾方案量产交付并拓展物流场景",
+      "summary": "",
+      "source": "www.caiwennews.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wb3FMU2E0cDhPWFRyVU9LblpDTEtDQzBtSXQ5SWsyREJ0S1A2WS1PejJqMW9KMW5DZ0xhU3lrRWxEV2hEX01tMWRJRWRzRDNfTHZsNFF4ZlRqZDAy?oc=5",
+      "published_at": "2026-11-23T01:52:32Z",
+      "category": "物流风险",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
       "id": "cb1c257d3e1d2755",
       "title": "以人工智能(AI)为基础的LiDAR认知解决方案专门企业Vueron Technology23日表示,在最近举行的海洋、港口革新平台\"PIER71智能端口挑战2026\"上获得了三冠王。由新加坡海事港湾..",
       "summary": "",
@@ -1088,6 +1209,17 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2ZDYXhFZEhadGpmQkREb2tJaHFNOTN1Y0tsVUVtTjBBMTA2Z2FZRVk5MzhabXBLUVJheDJMZGxLTTEyb2tKcXpSZWFpQnVSX1RNRkMyb2REQ3JkTm9OQ0ptMjFZcG1uaTBLLXFJb09SWWxERXh0R1lwV2lpSHJxclpoc0JPXzB0?oc=5",
       "published_at": "2026-11-22T22:47:20Z",
       "category": "产能布局",
+      "language": "中文",
+      "origin": "RSS自动聚合"
+    },
+    {
+      "id": "b203778183e58900",
+      "title": "“坐电梯5分钟就能搞定，韩国的‘快文化’被中国抢走了”……中国把本该废弃的不良芯片也变成“钱”[中国冲击，悬崖边的韩国工业｜半导体]①",
+      "summary": "",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VTlFqMW5fRWtUeTRhNm5JUXZFVTBJNTBMSVdDVnJzbWZ4dWhaRk5xcW8yU25sQ01aY3BWUHZ3RU1tTE1vcVBCclh5RXNzR3R6RllsT3J6cC0wUmRrR2JNTHRsLWdtZw?oc=5",
+      "published_at": "2026-11-23T00:19:00Z",
+      "category": "科技原料",
       "language": "中文",
       "origin": "RSS自动聚合"
     },
@@ -1719,11 +1851,11 @@
       "origin": "RSS自动聚合"
     },
     {
-      "id": "4bd8e8eb53980e4d",
+      "id": "1d47edd35f99d5ce",
       "title": "抗衡中国AI竞争 特朗普宣布美企海外建数据中心将重罚",
       "summary": "",
-      "source": "KLSE Screener",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQTDExMEtOSVdnWjB6VzIxLW9CVWNscFlMTHVNa3F6TmdTamFvQTY1QXZWZWRZaWY0MDJRZ2dBNXJVemg0dkVraUh4aU5vUEc4N3RMLWFiX1ZRTGlRdi1GdkV4UVlCNmFsdlc1X2tKRzFsX2JnWWVjMGxqSDdHRW5EcTNtNUUweHQ4d185YjZCdVpkMzZ1US1mWTE5Z0xqMG52Y3R4cFZ4Z0Y2RUZvNjdFTm05Ui0tVHdabEV6cEgyT2hPaVpUSTZxbFczSUVNRHBOcjhXVEFNRmNjZXg0Mno3QTcyTmZiX3pwNDA5ZjFfc3VwbGM2eHk5T28zM04wLXhOLXFUa3o5dHpsNExzQXg1N0ZIeHZwaXQ0cTJWMGZMQlBPblh4YjZKZzRGUnRwb0xYMFUxc095UnhaZ3BiSG5HZlBJbUR5eXB3SXphLUZQNHRfcGNBR3RIUU5MWlhTbDl2Xzh5MGdOQWR1YzZiQkt6bzV0VmptRU0?oc=5",
+      "source": "e南洋",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ybjh0VzFaalZQRFliOU9NbjJhN0RUVTR2dEFFZFBpNDU5LXZRQ2xScndfUXR4RHNLd2dxVUpSVXlEc29KQXRVeEhsRFZ2RVhhcWVsRHVvMUNMTXFQcWF0RDJtVQ?oc=5",
       "published_at": "2026-11-21T01:13:46Z",
       "category": "科技原料",
       "language": "中文",
@@ -1846,138 +1978,6 @@
       "source": "证券之星",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVUZMY0pYZl8ySXZPM0VNUS1xRldlUjB6SGo1YW9LN09hVGw1ZFZnR256OFFSSDBDaklnWFlXTnJ5dDh6RjFYeFVrTUZDaTFwZFhnUzJFUGItSVNpWlprZw?oc=5",
       "published_at": "2026-11-20T20:01:26Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "34189cc1a562f79f",
-      "title": "小崧股份（002723.SZ）新增一起对外投资，被投资公司为江门崧启智能科技有限公司_公司新闻_财经",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpR2NVXzFjS2I3emRRNXprbVkxdWVKQXJ6andieUpZei1BYjVJNGQ2YXRYZXdWSzBXRk5raklHakEzSngtUTI3Y0NKNzAtMG1ab3lZcFcyNWJaRXM3em1VUg?oc=5",
-      "published_at": "2026-11-20T20:01:10Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "1cea894a3ad7f4e5",
-      "title": "卓翼科技（002369.SZ）新增一起对外投资，被投资公司为卓翼智造（南昌）科技有限公司_公司新闻_财经",
-      "summary": "",
-      "source": "证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NOE1XazlkdklNQTdBR2ViZk1OaG9HWkhoLUd5OVljYjRHbnRMWEl1bUl6MjZ5X241UlBvbzFTMklWQ085MVFhQ3o4dFZUeWRXd05XWjJVNE96T3c1dHlBbA?oc=5",
-      "published_at": "2026-11-20T20:00:58Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "b8b2f8e711a8c33f",
-      "title": "COP31中国角发起“绿链同行”倡议，共建绿色低碳供应链",
-      "summary": "",
-      "source": "21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ08xaGZKd1BreUJ5bHUyaV9KZlk2UWlBNVB3MzlKMVdKYkZxZ3gtYmpyREIxRUhqU2JsYllQbDBaUl9GY3FKUG9INGhxa19yMFR3UnRBdVliYmNFYy1SazFKUDlGTWxlc29JUVdjaWJUUUY1U3VtSVNScVQ0V1pLZnZ5SlFhdnNrRzFndFpPaw?oc=5",
-      "published_at": "2026-11-20T14:46:20Z",
-      "category": "综合",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "6f123536577a7fd6",
-      "title": "阿斯麦(ASML)股票11月20日盘中下跌4.24%：投资者必看的核心信息",
-      "summary": "",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNU1GOGl6ZDZNNEVBczJjdWFjLXU3SlNPZHU1Rjc3SWVjTHRKeFB3UF8yVEJXbWoyLUFPamx4cDRSNFkwb3kxNjNVSXBtQ0ZwbzN3ZHJ2Sjk3dzdlQnV4N3NMNUpNYUdHaVVudWgxV1NlTlhlWUstX0txTWo4RjIxSXB4cU9OMG5OaHBKUmptOGpOVUFwNmc?oc=5",
-      "published_at": "2026-11-20T16:16:37Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "9443b0c6d4bdb59d",
-      "title": "彭博：中国的出口机器震惊世界，但竞争对手很难反击",
-      "summary": "",
-      "source": "加美财经",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DWUVLSk84VW1SSTRfZGRCa2QtNzFmUk1OZ3hlYzVWZWtBREJpVFFCVUpiNWFNWnZ3T2doUHhPck03b3RPNzRMY19MbFd3WnFNMHJQU2k3YW4xQQ?oc=5",
-      "published_at": "2026-11-20T15:35:14Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "b36edecb58f11e2f",
-      "title": "美国政府加强了对中国企业通过海外晶圆代工厂委托生产先进半导体的出口管制，全球半导体供应链因此受到冲击。三星电子和台积电已暂停向中国客户交付部分半导体；中国人工智能（AI）企业月之暗面则取消了一份价值1..",
-      "summary": "",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UajRfYk1rTnhqY2pITzZsNktac2dWMU13dHZxRXZVa1BFVDRleEp6UFZPVzVPWVN2T0FQenhCaFFNYm5WZEhQZndWcThMLTA?oc=5",
-      "published_at": "2026-11-20T08:31:45Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "58e52dc6152264bc",
-      "title": "随着美国政府加强对中国企业通过海外代工厂委托生产尖端半导体的出口管制,全球半导体供应链正在掀起波澜。 三星电子和TSMC中断了对中国客户公司的部分半导体出货,中国人工智能(AI)企业Moonshot",
-      "summary": "",
-      "source": "매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UajRfYk1rTnhqY2pITzZsNktac2dWMU13dHZxRXZVa1BFVDRleEp6UFZPVzVPWVN2T0FQenhCaFFNYm5WZEhQZndWcThMLTA?oc=5",
-      "published_at": "2026-11-20T08:31:45Z",
-      "category": "科技原料",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "0b58067f4360f7be",
-      "title": "南京铁路物流中心年内海铁联运发运量突破500万吨",
-      "summary": "",
-      "source": "Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQW1GYm5FLUo5V2Q2SWJyNlo1Mk5oaEUzMTBBQ1c5UjBwWjZNcDB2R1FqOEVGYlpubE9qb0REUzdhZWZsTjJ5bk9sLTBuWTJ2NGhjUlNjQlAwM1k0Y2NHZnJGcnA3WHdVN3I3YjBzMGJuSmx3bFF0dkVueVlkbFBfSkJGTXZxNVoz?oc=5",
-      "published_at": "2026-11-20T13:21:49Z",
-      "category": "物流风险",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "c43d5f72b80dc4d9",
-      "title": "印度对部分散装苏格兰威士忌进口征收162.5%的综合费用，尽管英印贸易协议已下调关税",
-      "summary": "",
-      "source": "Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbjBGZmZmWHE2NUFtbFBFTWlpZjVHMkJBV004R0plMkI3T1hGb3VEamc2cjdqZEQ5ZDR2d1V5QzhuMGYtRktCTnNFeGJWeWdaRVFiaWQyY1VSRWplU1JIYUlTWGVvbEpScTlPenVhYmE4Tm1Kd3dVM2NRUGRVLUFnbXg1X0hSRXJnLXFxUm5iZ1JXMldnZUNvdlBTZ1BVcFhCWEZPamdqcmduekdBM0UxZHBWV1RVZlNvLWhKbUlhZEx6b0JwVU9tSFpBaXZvZ3FMYVdwNEF5N05pblBB0gHiAUFVX3lxTE1VZ2tiZ180b2haNWlsVFpYY3FBQ090NmhTQXRQeVFPQUNmb09qd3lvZXF3SkdFajdBaU94OWozLTNGYzV6SlJRTkw2QUJHNE9adExIZ3p2UERqZWZPMndTSGhNelpoNWR1WUNMWTZWdXJVV2xsNC1iSUE1RmE0bkRqcENGX1NDXy1YbUZfOVp4NXBPNXFfd0c5YUJ0MmVNMWFlUkZuUEFRTUlrUS1CY0dhVWhEWnY5Nm43VUdhOE9XZzM3YkpNM1Uxb3NlOHdyNnJMc3JfUXZOcld2LVR6NS1HaXc?oc=5",
-      "published_at": "2026-11-20T13:21:03Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "e3af1da6572d4bc1",
-      "title": "国轩高科豪掷120亿出国建厂，李缜海外撒币能否救利润？",
-      "summary": "",
-      "source": "汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44ckd1d3hZeXVzWUZmTXRMZVNyZ3BoQ2VEQ0V2d0N3dHFqT2xHcEdtZmRNanByVjMwQnp5X2xIY0UtUTd2OHNTS19WeGxPbTN1bVc0b1NtbzJhczdYa0E?oc=5",
-      "published_at": "2026-11-20T11:22:22Z",
-      "category": "产能布局",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "ddd6540f5ca54003",
-      "title": "美国贸易代表署：认可关税杠杆效应，“关税成本超半数由美国人承担” : 国际 : 财经日报",
-      "summary": "",
-      "source": "재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJVDkwbGF0WjFZZng1UzdteUprZl85ajNBYkhYRERZWXg5Qi1rYV9wTjBkRlZDYmp2WC1YZDI1TWRpNFZ5RkZad2FKYnZfVS1pUkhGMURjNTRZa2ZKWTdlYkFR?oc=5",
-      "published_at": "2026-11-20T13:02:14Z",
-      "category": "贸易政策",
-      "language": "中文",
-      "origin": "RSS自动聚合"
-    },
-    {
-      "id": "64c0a837b64481d8",
-      "title": "TÜV南德国际科技创新园区落成 赋能大湾区新能源与硬科技出海",
-      "summary": "",
-      "source": "第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15eF9Sei00Wm1PbmdQLW5WVU5yVGE0OURURExiNDBCeHVWaEZIUDh4TzhoaU5icE1HbEQ2d2NVTnR0TFVGN212ZUNpU0l1eEg4OVVlTA?oc=5",
-      "published_at": "2026-11-20T14:25:30Z",
       "category": "产能布局",
       "language": "中文",
       "origin": "RSS自动聚合"
